@@ -1,0 +1,751 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prayers prevalencie for Israels safety. Declared in a sermon preached in Saint Margarets Westminster, before the Honourable House of Commons, at the late solemne fast, June 28. 1643. / By Thomas Carter, minister of Dynton in Buckingham-shire. ; Published by order of that House.</title>
+            <author>Carter, Thomas, d. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80721</idno>
+            <idno type="STC">Wing C668</idno>
+            <idno type="STC">Thomason E60_2</idno>
+            <idno type="STC">ESTC R22771</idno>
+            <idno type="EEBO-CITATION">99871830</idno>
+            <idno type="PROQUEST">99871830</idno>
+            <idno type="VID">124247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124247)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E60[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prayers prevalencie for Israels safety. Declared in a sermon preached in Saint Margarets Westminster, before the Honourable House of Commons, at the late solemne fast, June 28. 1643. / By Thomas Carter, minister of Dynton in Buckingham-shire. ; Published by order of that House.</title>
+                  <author>Carter, Thomas, d. 1646.</author>
+               </titleStmt>
+               <extent>[4], 38, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, and are to be sold by John Bellamie and Ralph Smith, at the signe of the three golden Lions in Cornhill, neare the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "July 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Exodus XXXII, 9-10 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124247:1"/>
+            <pb facs="tcp:124247:1" rendition="simple:additions"/>
+            <p>PRAYERS PREVALENCIE FOR ISRAELS SAFETY. Declared in A SERMON Preached in Saint <hi>Margarets Weſtminſter,</hi> before the Honourable Houſe of COMMONS, at the late ſolemne Faſt, <hi>June</hi> 28. 1643.</p>
+            <p>By THOMAS CARTER, Miniſter of <hi>Dynton</hi> in <hi>Buckingham-ſhire.</hi>
+            </p>
+            <p>Publiſhed by order of that Houſe.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> and are to be ſold by <hi>John Bellamie</hi> and <hi>Ralph Smith,</hi> at the ſigne of the three golden Lions in <hi>Cornhill,</hi> neare the <hi>Royall Exchange.</hi> 1643.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:124247:2"/>
+            <head>Die Mercurii 28. Junii, 1643.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered by the Houſe of Com<g ref="char:EOLhyphen"/>mons, that Sir <hi>Oliver Luke</hi> doe from this Houſe returne thanks to Mr. <hi>Palmer,</hi> and Mr. <hi>Hill</hi> to Mr. <hi>Carter,</hi> for the great paines they tooke in the Sermons they this day Preached at the intreaty of the Houſe of Commons at St. <hi>Marga<g ref="char:EOLhyphen"/>rets,</hi> in the City of <hi>Weſtminſter,</hi> (being a day of Publique humiliation) and that they deſire them to Print their Ser<g ref="char:EOLhyphen"/>mons. And it is Ordered that no man preſume to Print the ſaid Sermons, or either of them, but whom the ſaid Mr. <hi>Palmer</hi> and Mr. <hi>Carter</hi> ſhall Authorize under their hands in writing.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed> 
+               <hi>I appoint</hi> John Bellamie <hi>and</hi> Ralph Smith <hi>to Print my Sermon.</hi>
+               <signed>THO. CARTER.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>PAge 3 Line 38, for ſinnes, read ſignes. p. 8 l. 37. for jude r. judge. p. 12. l. 26. for mediate r. immediate, p. 18. l. 15. for Firſt r. Fiſt, p. 20 l. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>dele</hi> (how), p. 21. l <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ab</hi> r. <hi>Job,</hi> p. 22. l. 5 for your petitioner, r. the petitioners<g ref="char:punc">▪</g> p. 32. l. 5. for is r. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> p. 18. l. 25. in Margin, defect. 5. <hi>Doctr.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:124247:2"/>
+            <head>TO THE HONOVRABLE HOVSE OF COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the fathomleſſe depths of infinite good<g ref="char:EOLhyphen"/>neſſe and wiſdome, a deſigne is laid through the cleare diſcoveries of Gods perfections and glory, to compleate and accompliſh his ſervants happpineſſe. There is not any thing that befals them in this valley of teares, but by his con<g ref="char:EOLhyphen"/>trivance, it brings with it a ſecret in<g ref="char:EOLhyphen"/>fluence, and activity, to raiſe them to the mount of joy. I need not tell you how neere the duſt Gods people of this Kingdome were, they yet retaine the dints of contempt and ſcorne: but hath not a ſtrong reflection of Gods power beene caſt upon us, from that very cloud under which we were? are there not de<g ref="char:EOLhyphen"/>liverances created for us, even beyond our hopes? hath not the Lord raiſed you up (moſt Noble Senators) as once he did that Pillar to the <hi>Iſraelites</hi> to be a light to us, and darkneſſe to our<note place="margin">Exod. 14. 20.</note> enemies? Indeed at preſent we are in the midſt of a red Sea, the whole face of our Kingdom's beſmeared with bloud. But is not God able to make of theſe threatning and diſcoloured waves, wals of defence and ſafety? hath he not a <hi>Canaan</hi> reſerved for <hi>En<g ref="char:EOLhyphen"/>gland</hi>
+               <pb facs="tcp:124247:3"/> alſo? he is certainly full of bowels towards his, and the true <hi>Iſraelites</hi> with us cannot want ſtrength to draw them forth: But God will not have his mercies <hi>abortive;</hi> when the appointed time of deliverance comes, even in the <hi>Mount</hi> he<note place="margin">Ezek. 36, 37.</note> will be ſeene, yet will he be <hi>ſought</hi> unto for this: In his ſervants hearts he hath an armory of faithfull prayers, theſe he appoints to prepare his way before him; and till he findes himſelfe en<g ref="char:EOLhyphen"/>countered with the compleate ſtrength of his owne Spirit, he<note place="margin">Gen. 32. 24. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> will not be conquered. This is that meanes of meanes, the life and vigour of all the reſt that a Nation hath of ſafety; of whoſe prevalencie (moſt religious Statiſts) my imperfect meditations (with which at your command I lately preſented your eare, and now your eye) be pleaſed to honour by your Patronage, and crowne by your practice. Be yee wraſtlers with the God of Hea<g ref="char:EOLhyphen"/>ven, and yee ſhall be ſure to foyle your enemies on earth: It is the humble motion of him, who is</p>
+            <closer>
+               <signed>Your unworthy ſervant and faithfull Auxiliary at the Throne of grace, THO. CARTER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:124247:3"/>
+            <head>PRAYERS PREVALENCIE FOR <hi>ISRAELS</hi> SAFETY.</head>
+            <epigraph>
+               <bibl>Exod. 32. 9, 10.</bibl>
+               <q>
+                  <p>
+                     <hi>And the Lord ſaid unto</hi> Moſes, <hi>I have ſeene this people, and behold, it is a ſtiffe-necked people.</hi>
+                  </p>
+                  <p>
+                     <hi>Now let me alone, that my wrath may waxe hot againſt them, and that I may conſume them: and I will make of thee a mighty Nation.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Fter a narration of <hi>Iſraels</hi> ſinne in the ſixe firſt Verſes of the Chapter we finde: Firſt, the Lords complaint of them unto <hi>Moſes.</hi> 1 For their wickedneſſe in generall, <hi>v.</hi> 7. 2 For their idola<g ref="char:EOLhyphen"/>try, 1. in making an Idol, 2. in worſhipping it, 3. in aſcribing their deliverance unto it, <hi>verſe</hi> 8.</p>
+            <p>Secondly, we have in my text a fearfull commination of their utter ruine. Wherein obſerve theſe three generall parts.</p>
+            <list>
+               <item>1. The preface prefixed, <hi>And the Lord ſaid unto</hi> Moſes.</item>
+               <item>2. The ground of the threatning, (<hi>I have ſeene this people, and behold, it is a ſtiffe-necked people.</hi>) Wherein obſerve,
+<list>
+                     <item>1. The compellation, (<hi>this people,</hi>)</item>
+                     <item>2. The Lords manner of taking cognizance of their ſinne.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Firſt, his view, (<hi>I have ſeene this people:</hi>) Secondly, his cenſure, (<hi>it is a ſtiffe-necked people:</hi>)</p>
+            <p>Thirdly, the ſinne whereof he finds them guilty, namely obſti<g ref="char:EOLhyphen"/>nacie, metaphorically expreſſed (<hi>it is a ſtiffenecked people.</hi>
+            </p>
+            <p>Thirdly, the forme of the threatning. <hi>Now therefore let me, &amp;c.</hi>
+            </p>
+            <p n="1">1. The judgement denounced, namely the utter ruine of that Nation: firſt, the cauſe, the <hi>Lords wrath:</hi> ſecondly, the effect, <hi>the Nation conſumed.</hi>
+            </p>
+            <p n="2">
+               <pb n="2" facs="tcp:124247:4"/>2. The exception of <hi>Moſes</hi> out of the threatning implied, with a gracious promiſe expreſſed; the Lord will not onely ſave <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> from periſhing in the common calamity, but he <hi>will make of him a mighty Nation.</hi>
+            </p>
+            <p n="3">3. An intimation of the onely remedy to ſtay the hand of God from deſtroying this ſtiffe-necked Nation, namely, <hi>Moſes</hi> his medi<g ref="char:EOLhyphen"/>ation, <hi>Let me alone that my wrath may waxe hot, &amp;c.</hi>
+            </p>
+            <p n="1">1. The preface tels us that the Lord had no ſooner entertained a purpoſe to deſtroy this Nation, but he preſently acquaints his ſervant <hi>Moſes</hi> with it; which being compared with his dealing with others of his ſervants<g ref="char:punc">▪</g> in like caſe, affords us this inſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>1</label> Before the Lord deſtroyes a Nation, he uſually gives his ſervants notice of his purpoſe.</q>
+            <p>Indeed the wicked are ſuddenly deſtroyed, <note n="a" place="margin">Pro. 29. 1.</note> and brought to a fearfull end: <note n="b" place="margin">Pſal. 33. 18</note> for either, firſt, the judgement falleth ſuddenly upon them, like a net upon a bird, <note n="c" place="margin">Hoſ. 7. 12.</note> without any precedent <hi>no<g ref="char:EOLhyphen"/>tification</hi> given: or ſecondly, without any foregoing <hi>expectation</hi> of it; all warnings notwithſtanding, they ſecurely goe on, <note n="d" place="margin">Pro. 22. 3.</note> and are chearfull, like <hi>Agag,</hi> thinking the bitterneſſe of death is paſt, when preſently hewen in peeces: <note n="e" place="margin">1 Sam. 13. 3</note> or thirdly, without any precedent <hi>preparation</hi> for it, like thoſe fooliſh Virgins in the Goſpel, though they expected the Bridegrooms comming, yet when he came, were unprepared, and their Oyle's to ſeeke. <note n="f" place="margin">Mat. 25. 18</note> So that either through want of precedent notification, or expectation, or preparation, the judgement is either ſudden in it ſelfe, or at leaſt ſudden to them.</p>
+            <p>But for the Lords owne ſervants he uſeth to acquaint them with the approaching judgement before it comes, and that not onely his ſervants the Prophets, that are neare him, (as he never hideth any ſuch ſecret from them) <note n="g" place="margin">Amos 3. 7. 1 Sam. 3. 11.</note> But all his ſervants in ordi<g ref="char:EOLhyphen"/>nary, as <hi>Lot, Abraham, Noah,</hi> and others.</p>
+            <p>The Lord doth not now ordinarily diſcover future judgements by divine revelation, as of old.</p>
+            <p>Neither onely by their foregoing naturall cauſes.</p>
+            <p>For ſo every intelligent man and diſcreet Statiſt, by an eye of reaſon, may foreſee the ruine of a Nation, like a ſtorme in the clouds, by ſuch evils as in their intrinſecall nature, are deſtructive to a State, and brings its ruine by way of naturall cauſation: every
+<pb n="3" facs="tcp:124247:4"/> effect being virtually in its proper cauſe before the actuall produ<g ref="char:EOLhyphen"/>ction of it: as 1. Diviſions in a Church or State, like the oppo<g ref="char:EOLhyphen"/>ſitions of the Planets, are of dangerous conſequence, and make way for civill warres, as the Jeſuiticall faction well know, which makes them ſo induſtrious in ſowing the ſeeds of diſſention in Church, State, Parliament, City, and in all parts of the Kingdom, expecting that a Kingdom or City divided will not long ſtand. <note n="h" place="margin">Mat. 12. 25 Gen. 18. 17. Heb. 11. 7.</note>
+            </p>
+            <p n="2">2. Generall miſapprehenſion and miſconceits of the <hi>Fathers</hi> of a Countrey, when men looke upon them as <hi>deſtroyers,</hi> who are the <hi>maintainers</hi> and <hi>upholders of it;</hi> it is a dangerous ſymptome when a diſeaſe ſo ſeazeth upon the braine, that the ſicke man looketh up<g ref="char:EOLhyphen"/>on his Father and Brethren, as enemies comming to kill him, whoſe onely deſire and care is to recover and ſave him.</p>
+            <p n="3">3. When through the covetouſneſſe and ambition of ſome, and partiality of others, things are ſo carried in a Church or State, that worth is neglected, and worthleſſe men advanced: <note n="i" place="margin">Ec. 10. 6. 7.</note> when the wiſe Counſellor and valorous Captaine (the ſtrength and ſtay of a Kingdome) are taken away, or taken off, and children ſet to rule over men: <note n="k" place="margin">Iſa. 3. 1, 2. 3, 4. &amp; 19. 11.</note> when all creatures are out of their proper place, and in a motion contrary to their naturall principles, this muſt needs be a fearfull ſigne of approaching ruine.</p>
+            <p n="4">4. Licentiouſneſſe, ſenſuality and luxury <hi>take away the heart,</hi> 
+               <note n="l" place="margin">Hoſ. 4. 11.</note> effeminate mens ſpirits, infatuate a people, and make them neg<g ref="char:EOLhyphen"/>lective of their owne private, and of the publike good; and a bo<g ref="char:EOLhyphen"/>dy thus filled with excrementitious humours, cannot be far from ſome dangerous ſickneſſe.</p>
+            <p>A Nations ruine, by theſe and the like evils, is diſcernible by <hi>reaſon,</hi> as procuring it by naturall cauſation.</p>
+            <p>But the Lord foreſheweth the ruine of a Nation to his owne peo<g ref="char:EOLhyphen"/>ple <hi>in ſpeculo verbi,</hi> and by an eye of faith it is diſcernible by pa<g ref="char:EOLhyphen"/>rallel caſes, and upon ſpirituall grounds in the <hi>Word of God.</hi>
+            </p>
+            <p>As firſt, he ſheweth the caſting out of a Nation, by its <hi>fulfilling the meaſure</hi> of ſinnes and provocations of divine Majeſty; <note n="m" place="margin">Gen. 15. 15.</note> when the ſinnes of it are great in themſelves, great in Gods account by manifold aggravations univerſally ſpread over all ſorts of people, men hardened alſo under the meanes of grace: by <hi>heapes of wrath</hi>
+               <note place="margin">(<hi>n</hi>) Rom. 2. 5. Dan. 5. 5.</note> 
+               <hi>ſo laid up,</hi> the Lord foreſhowes a <hi>day of wrath</hi> at hand.</p>
+            <p>Secondly, by prodigious ſinnes, <hi>mira,</hi> if not <hi>miracula,</hi> God with his owne hand (as it were) writing the ruine of a Nation, as he
+<pb n="4" facs="tcp:124247:5"/> did <hi>Belſhazzars,</hi> on the wals of the great houſe of the world, which though the <hi>wiſe men of Babylon</hi> by all their Art could not un<g ref="char:EOLhyphen"/>derſtand; yet the Lords <hi>Daniels</hi> can read and interpret them, by helpe of the Word, as letters written in unknowne Characters, cannot be underſtood without a rule from the Writer.</p>
+            <p>I might inſtance in other particulars, as the Lords making way for his judgements, by taking away of the righteous, or with<g ref="char:EOLhyphen"/>holding their prayers. But of this anon.</p>
+            <p>Now the Lord gives ſuch cleare notice, that howſoever blind <hi>Balaams</hi> will not ſee the ſword that is before them, yet as <hi>Solomon</hi> ſaith, the <hi>prudent</hi> Chriſtian <hi>foreſeeth it:</hi> 
+               <note n="n" place="margin">Prov. 22. 3.</note> and that not only when it is ſo neare, that obvious to ſenſe, or diſcernible by reaſon in the naturall cauſe of it: but while it is afarre off, (as St. <hi>Peter</hi> ſpeaks) <note n="o" place="margin">2 Pet. 1. 9. Zeph. 2. 1.</note> 
+               <hi>in fieri,</hi> not <hi>in eſſe,</hi> in the wombe of Gods threatning before it comes forth, and onely diſcernible by an eye of faith.</p>
+            <p>And indeed though the judgement be future, and at preſent in<g ref="char:EOLhyphen"/>viſible, as being not yet exiſtent, yet by faith it is made as evident, and certaine to the faithfull, as if this tragedy was now acting be<g ref="char:EOLhyphen"/>fore their eyes, as the Apoſtle ſpeaketh, <note n="p" place="margin">Heb. 11. 9.</note> 
+               <hi>Noah</hi> by giving credence to divine warning, 120. yeares before the ſtood came, ſaw the windowes of Heaven opened, the fountaines of the deepe broken up, the raine falling, the waters riſing, all crying, Helpe, helpe, we periſh, we ſinke, we die.</p>
+            <p>The reaſons why the Lord is pleaſed to diſcover his purpoſe, may be theſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Firſt, To grace his people, that the world may ſee, that howſo<g ref="char:EOLhyphen"/>ever they account them as the worſt of men, and <hi>the off-ſcowring of all things,</hi> 
+               <note n="q" place="margin">2 Cor. 4. 13</note> yet they are privy counſellers to the great King, and he reveales <hi>arcana imperii, his ſecrets to them.</hi> 
+               <note n="r" place="margin">Pſal. 25. 14</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, That Miniſters publikely, and others occaſionally, ſhould warne the world to flye from the <hi>wrath to come,</hi> as <hi>Eliah</hi> did <hi>Ahab,</hi> ſaying, there is aboundance of raine comming, and therfore up to thy Charriot and flye for ſhelter. <note n="s" place="margin">2 King. 18. 4</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, That Gods ſervants might prepare aforehand againſt the ſtorm, either to get ſhelter from it, or elſe to provide Cordials before to refreſh and ſupport them in it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſes. </seg>
+               </label> This truth, Firſt, ſhould raiſe our eſteeme of Gods ſervants.</p>
+            <p>Secondly, Comfort and encourage them.</p>
+            <p>Thirdly, Teach all to make a right uſe of theſe warnings.</p>
+            <pb n="5" facs="tcp:124247:5"/>
+            <p>But the time haſtens mee to a ſecond obſervation, namely the Lords manner of taking notice of their ſinnes, in theſe two parti<g ref="char:EOLhyphen"/>culars mentioned. Firſt, his view, <hi>I have ſeene this people, contempla<g ref="char:EOLhyphen"/>tus ſum</hi> or <hi>conſideravi,</hi> as <hi>
+                  <g ref="char:V">Ʋ</g>atab.</hi> renders it, or <hi>notum eſt coram me,</hi> as the <hi>Chald. Paraph.</hi> hath it, <hi>i. e.</hi> he ſo conſidered of them that he had a cleare ſight and full knowledge of them. Secondly, his cenſure, <hi>it is a ſtiffenecked people.</hi>
+            </p>
+            <p>Howſoever the Lord be an infinite omniſcient eſſence above time, no <hi>prius</hi> and <hi>poſterius</hi> with him, although he doth not draw forth one thing by and after another, as man doth by <hi>diſcurſive reaſon,</hi> but ſees all things <hi>unico ſimplici intuitu,</hi> by one ſimple intuitive Act, yet is the Lord pleaſed to uſe this Anthropopathie, to hold out unto us this golden rule to be obſerved in judging either of per<g ref="char:EOLhyphen"/>ſons or of things, opinions or practiſes, whether thoſe be true, or theſe good, which I ſhall propoſe to you as my ſecond Do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>2</label> 
+               <hi>In judging we ought firſt to enquire and ſee, and then accordingly deter<g ref="char:EOLhyphen"/>mine.</hi>
+            </p>
+            <p>The like rule we have laid downe by Saint <hi>Paul, Try all things,</hi> finde out the truth, and accordingly determine for that which is good, and againſt that which is evill: <note n="a" place="margin">1 Theſ. 5. 21. 22.</note> And excellently by our Saviour in the ſeventh of <hi>John.</hi> The <hi>Phariſees</hi> being much of<g ref="char:EOLhyphen"/>fended at his healing the man upon the Sabbath (<hi>Joh.</hi> 5. 8.) he ha<g ref="char:EOLhyphen"/>ving<note place="margin">Joh. 7. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4</note> in the 21, 22, and 23. verſes of this chapter juſtified his Act, and ſtrongly proved, that howſoever it might looke like a breach of the Sabbath, and was by the Jewiſh Prelates condemned as a breach of it, that yet indeed it was not, at laſt he addes this ge<g ref="char:EOLhyphen"/>nerall admonition, yet with reference to his owne particular, that they ſhould not judge of his act by the ſhew and face of it, and that they ſhould not looke at his meanneſſe that ſtood for it, nor the Phariſees greatneſſe that condemned it, but examine it by the rule, <hi>Judge not according to appearance, but judge righteous judge<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>Firſt, For the negative part of the rule, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the word ſignifies the face or countenance of a thing, and his direction is negative for that, not according to appearance.</p>
+            <p>Secondly, For the affirmative, judge righteous judgement, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here tranſlated righteous ſignifies ac<g ref="char:EOLhyphen"/>cording to <hi>Ariſt.</hi> ſuch an exact diviſion of a thing that each part
+<pb n="6" facs="tcp:124247:6"/> hath neither more nor leſſe then its true proportion: ſo that to judge righteous judgement is to give each thing its true eſtimate:<note place="margin">Ariſt. Eth. l. 5. c. 7.</note> and this is to judge <hi>according to truth,</hi> as Saint <hi>Paul,</hi> 
+               <note n="b" place="margin">Rom. 2. 2.</note> and <hi>what is right,</hi> as our Saviour ſpeakss. <note n="c" place="margin">Luk. 12. 57</note>
+            </p>
+            <p>Judgement is the determination that the underſtanding by diſ<g ref="char:EOLhyphen"/>courſe maketh of a thing.</p>
+            <p>Now indeed <hi>raſh, uſurped</hi> or <hi>unjuſt judgement</hi> is condemned as ſin<g ref="char:EOLhyphen"/>full,<note place="margin">1 Joh. 4. 1. 1 Theſ. 5. 21. 1 Cor. 10. 15.</note> but <hi>judgement</hi> it ſelfe allowed as lawfull, yea commanded as neceſſary; and not onely to enquire and examine (this even the Papiſts allow to every man) but alſo to determine: and that not onely for publicke perſons, Magiſtrates in the State, Miniſters in the Church, but even for private perſons alſo: indeed the judge<g ref="char:EOLhyphen"/>ment <hi>of ſupreame authority</hi> belongs to God, and the judgement <hi>of</hi>
+               <note place="margin">B. Daven. in prae<g ref="char:EOLhyphen"/>lect. de Iud. con<g ref="char:EOLhyphen"/>trov.</note> 
+               <hi>ministeriall and ſubordinate power</hi> to publicke perſons; but the judge<g ref="char:EOLhyphen"/>ment of <hi>practicall diſcretion</hi> belongs unto every private Chriſtian: and that not onely concerning perſons, but things alſo: alwayes for the manner obſerving this rule, <hi>firſt to enquire and ſee, and then to determine.</hi>
+            </p>
+            <p>Firſt, in judging of perſons, and actions in reference to per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Rumours and probabilities are ground ſufficient for a <hi>cautelous jealouſie,</hi> our Saviour would not <hi>truſt the Jewes, becauſe he knew what was in them,</hi> 
+               <note n="c" place="margin">Joh. 2. 24, 25.</note> though we cannot looke into the heart, and ſee what particular projects and deſignes are there, as Chriſt did, yet we know there is corruption enough to warrant a cautelous jea<g ref="char:EOLhyphen"/>louſie where there is an appearance of evill: and yet we muſt not peremptorily determine but upon cleare grounds, of pregnant teſtimony, or ſtrong preſumptions: this the Lord teacheth by his owne example, he would not proceed againſt the <hi>Sodomites</hi> upon <hi>the crye that came up;</hi> but he would <hi>firſt goe downe and ſee:</hi> 
+               <note n="d" place="margin">Gen. 18. 21. Deut. 13. 14.</note> and wee have it given in precept in the 13. of <hi>Deuter.</hi> for publicke ju<g ref="char:EOLhyphen"/>dicature, and I conceive it holds as well in private cenſure, that we <hi>diligently enquire before we determine.</hi>
+            </p>
+            <p>Now becauſe man cannot <hi>ſee as God doth,</hi> for he lookes directly on the heart, <note n="e" place="margin">1 Sam. 16. 7</note> and ſo judgeth of it; <note n="f" place="margin">Jer. 17. 10</note> but man cannot, ther<g ref="char:EOLhyphen"/>fore he is to finde out the heart by words and actions: as the natu<g ref="char:EOLhyphen"/>raliſts judge of the forme of a thing by its qualities and operati<g ref="char:EOLhyphen"/>ons; ſo we of the habit of the heart, by its conſtant and naturall productions, as of a <hi>tree by its fruit.</hi> 
+               <note n="g" place="margin">Mat. 7. 20.</note>
+            </p>
+            <pb n="7" facs="tcp:124247:6"/>
+            <p>The Apoſtle tels us, 1 <hi>Tim. 5. 24. ſome mens ſinnes are open before<g ref="char:EOLhyphen"/>hand and goe before unto judgement, and ſome mens follow after:</hi> 
+               <note n="h" place="margin">1 Tim. 5. 24.</note> ſome conjecture, that at the laſt Judgement ſuch as are eminently good, or notoriouſly bad, ſhall not come into the judgement of <hi>diſquiſition or examination,</hi> but onely come under ſentence, namely<note place="margin">Aq. ſup. q. 89.</note> the judgement of <hi>retribution:</hi> and the like courſe may we obſerve in cenſuring, as for ſuch as are eminently good, or notoriouſly bad, the beſt of the good, and the worſt of the bad, there needs no great inquiry concerning them, before we cenſure, but for the two middle ſorts, the beſt of the bad, and the worſt of the good, here it is hard to diſcerne betweene the <hi>precious</hi> and the <hi>vile;</hi> 
+               <note n="a" place="margin">Jer. 15. 19</note> and therefore of ſuch we are diligently to enquire before we cenſure.</p>
+            <p>As ſome perſons, like the Moone at the change, ſeeme to have leſſe light and worth in them then indeed they have, little in the eye of the world, much in the eye of heaven. So others ſeeme bet<g ref="char:EOLhyphen"/>ter then they are, like blazing Starres, that make a great ſhow, and looke as gloriouſly as any ſtarres in the heavens, and yet no ſtarres, but ſtinking meteors. Alſo there are aggravating and ex<g ref="char:EOLhyphen"/>tenuating circumſtances, making the good or evill, more or leſſe in Gods account: and therefore if we would make a true eſtimate of men and their actions, we muſt diligently <hi>enquire</hi> before we cen<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>In judging of things we ought to judge <hi>ſecundum quod ſunt,</hi> but in judging of perſons, or actions in reference to perſons, it is not alwayes ſo: indeed <hi>in re comperta,</hi> in a caſe that is evident, it's e<g ref="char:EOLhyphen"/>qually an abomination to the Lord, <hi>to juſtifie the wicked</hi> perſon, or action, as <hi>to condemne the juſt.</hi> But <hi>in re dubia</hi> it's otherwiſe, for here<note place="margin">(<hi>c</hi>) Prov. 17. 15. <hi>Aq. 2. 2. q. 60.</hi>
+               </note> the rule holds, <hi>dubia in meliorem partem ſunt interpretanda,</hi> charity to the perſon ſhould ſway the judgement, though not abſolutely to determine, yet to thinke him good whom we doe not know to be bad. <note n="d" place="margin">1 Cor. 13. 7.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, in judging of things, tenents, or practiſes; we ought not to take things upon truſt, but our ſelves to examine and de<g ref="char:EOLhyphen"/>termine of them.</p>
+            <p>Firſt, We muſt not judge according to appearances.</p>
+            <list>
+               <label>Now appearances are</label>
+               <item>
+                  <list>
+                     <item>1. <hi>perſonall</hi>
+                     </item>
+                     <item>2. <hi>reall.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Firſt, <hi>A perſonall appearance</hi> is that eſtimate which the quality of the perſons oppoſing or maintaining an opinion or practice,
+<pb n="8" facs="tcp:124247:7"/> hath brought upon it: We are not to judge what kinde of crea<g ref="char:EOLhyphen"/>tures the Moone and Starres are by that luſter and ſplendor that the Sun hath caſt upon them, for then we ſhall judge them far more glorious creatures then they are. As we are not preſently to im<g ref="char:EOLhyphen"/>brace and cry up an opinion or practice, becauſe good men ſtand for it, and bad againſt it, as if all were good which <hi>Nero</hi> perſe<g ref="char:EOLhyphen"/>cutes: ſo neither are we to cry downe a tenet or practice, becauſe good men are againſt it, and bad men for it.</p>
+            <p>Indeed this is enough to raiſe a <hi>ſuſpition</hi> upon an opinion or practice, and to cauſe a more ſtrict ſcrutiny and enquiry into it, yet this muſt not ſway our judgement, but without al regard of the perſons for, or againſt, indifferently weigh the action: <hi>judge not according to perſonall appearances.</hi>
+            </p>
+            <p>Secondly, <hi>there is a reall appearance,</hi> which is the ſuperficies, the <hi>ſuprema facies,</hi> or countenance of a thing: Now error is ſomtimes cryed up in truths apparel, and vice in vertues colour, as <hi>Jacob</hi> was bleſt in <hi>Eſaus</hi> garment: <note n="b" place="margin">Gen. 27. 27.</note> and ſometimes truth is cried downe under an appearance of errour, and if not vertue, yet a thing in its nature indifferent under an appearance of evill, as good <hi>Jehoſaphat</hi> was made at, and endangered in wicked <hi>Ahabs</hi> ap<g ref="char:EOLhyphen"/>parell. <note n="c" place="margin">2 Chro. 18.</note>
+            </p>
+            <p>Now indeed a thing indifferent both in its nature and uſe, though not intrinſecally evill; yet becauſe it lookes like a ſinne, and carries the face of evill, it ought to be declined, <hi>Abſtaine from all appearance of evill.</hi> 
+               <note n="d" place="margin">1 Theſ. 5. 22.</note>
+            </p>
+            <p>It is alſo true, that things in their nature indifferent, yet carry<g ref="char:EOLhyphen"/>ing an appearance of evill, in reſpect of ſcandall, ſhould not by au<g ref="char:EOLhyphen"/>thority be impoſed, and ſo be made neceſſary in their uſe.</p>
+            <p>But in as much as the outward face and appearance is not al<g ref="char:EOLhyphen"/>wayes ſutable to the intrinſecall nature of things, we are not to be ſwayed in our judgements by that.</p>
+            <p>But ſetting all appearances perſonall and reall aſide, we are to ſearch into the nature of things, and to examine them by the rule, that ſo we may give each thing its true eſtimate, and judge righte<g ref="char:EOLhyphen"/>ous judgement.</p>
+            <p>Now that we may rightly determine, three things are required, 1. <hi>A right rule to jude by, 2. A right qualification of the perſons judging, 3. A right application of things to the rule.</hi>
+            </p>
+            <p>
+               <hi>The rule</hi> to try all opinions and practiſes by, is the <hi>Word of God.</hi>
+               <pb n="9" facs="tcp:124247:7"/> There are indeed divers ſubordinate rules: as<g ref="char:punc">▪</g>
+            </p>
+            <p n="1">1. <hi>The Lawes and legall Commandements of authority; perſonall</hi> com<g ref="char:EOLhyphen"/>mandements they impoſe on us, as they are men, <hi>legall</hi> as Magi<g ref="char:EOLhyphen"/>ſtrates;<note place="margin">1 Per. 2. 13. Acts 5. 29.</note> and by theſe all perſons that are under them, are to be re<g ref="char:EOLhyphen"/>gulated in their practice, ſo far as they may without diſobeying God in his Word.</p>
+            <p n="2">2. <hi>The example of Gods people and cuſtome of the Church of God,</hi> is in ſome caſes a rule to direct us, and hath <hi>vim legis,</hi> as <hi>Aquin.</hi> ſpeaks:<note place="margin">B. <hi>Andr.</hi> 1 Cor. 11. 16.</note> and therefore there being a controverſie at <hi>Corinth</hi> whether <hi>wo<g ref="char:EOLhyphen"/>men</hi> ſhould be <hi>uncovered,</hi> or <hi>men covered</hi> in the Congregation, the A<g ref="char:EOLhyphen"/>poſtle ſeemes to referre them to the <hi>Churches cuſtome,</hi> as a rule in things of ſo low a nature, and not determined in the Word, and by it to conclude and determine for, or againſt a thing according<g ref="char:EOLhyphen"/>ly.</p>
+            <p>A third rule is each mans <hi>conſcience,</hi> and to this the Apoſtle re<g ref="char:EOLhyphen"/>fers<note place="margin">1 Cor. 11. 13.</note> the <hi>Corinthians, Judge in your ſelves what is right:</hi> Now conſcience is ſo farre a rule, that if we doe any thing againſt it, we ſinne: and yet if we be guided by conſcience, and that erres, and leads us from the rule of the Word, we ſinne too; an erring conſcience cannot excuſe <hi>à toto,</hi> though it doth <hi>à tanto,</hi> though it doth extenuate, yet not annihilate a ſinne. And here we may take notice of a two-fold miſtake amongſt men. Sometimes a groundleſſe fancie is taken for conſcience, and ſometimes the bent of the heart and will: men ſup<g ref="char:EOLhyphen"/>poſing conſcience to be for, or againſt a thing, when indeed it is either a meere fancie, without ground either of Scripture or rea<g ref="char:EOLhyphen"/>ſon: or at leaſt the heart and will, by ſome engagements, is bent and ſetled that way.</p>
+            <p>Now all theſe are but ſecondary rules, and are to be regulated by the Word, the Word of God is the primarie rule whereby as all opinions and practices are to be tried, in as much as the truth of thoſe, and goodneſſe of theſe conſiſts in conformity thereunto: ſo alſo all thoſe ſecondary rules are to be regulated and tried by it, as all weights and meaſures by the Kings Standard, they being no further rules to us then they are agreeable thereunto: therefore the Prophet <hi>Iſaiah</hi> refers all to this rule, <hi>to the law, to the teſtimony,</hi>
+               <note place="margin">Iſa. 8. 20.</note> no light unleſſe according to this rule, this is the <hi>ballance of the Sanctuary,</hi> the touch-ſtone to try all rules, all opinions and practi<g ref="char:EOLhyphen"/>ces by.</p>
+            <p>2. For the <hi>qualification of the perſons judging,</hi> they muſt be <hi>tranſ<g ref="char:EOLhyphen"/>formed
+<pb n="10" facs="tcp:124247:8"/> and renued in the ſpirit of their minds,</hi> their underſtandings en<g ref="char:EOLhyphen"/>lightned,<note place="margin">Rom. 12. 2.</note> and their hearts ſanctified, or elſe they can never try and determine what is <hi>that good and acceptable will of the Lord.</hi> They<note place="margin">1 Cor. 10. 15. 1 Cor. 2. 15.</note> muſt have gracious and ſpirituall hearts, as well as cleare under<g ref="char:EOLhyphen"/>ſtandings, as the Apoſtle ſheweth.</p>
+            <p>And indeed every godly enlightned Chriſtian, though not of ſuch intellectuall ſtrength, as to be able to judge of all theologi<g ref="char:EOLhyphen"/>call truths, yet is of ſuch underſtanding, that through the helpe of Gods Spirit, he is able to judge of thoſe fundamentall divine truths, which are of abſolute neceſſity by an actuall explicit faith to be beleeved unto ſalvation.</p>
+            <p>If the eye be dimme, duſty, or diſtempered, it maketh not a true report of things to the underſtanding; ſo if the perſon judging be not rightly diſpoſed, either through darkneſſe in the underſtan<g ref="char:EOLhyphen"/>ding, or corruption in the heart, he cannot judge righteous judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>There are two things that hinder right judging, <hi>prejudice</hi> and <hi>paſſion.</hi>
+            </p>
+            <p n="1">1. <hi>Prejudice:</hi> the eye muſt be free from colours, the palate muſt be inſipide: <hi>Intus exiſtens prohibet alienum:</hi> if the eye be infla<g ref="char:EOLhyphen"/>med, it makes the whiteſt thing ſeeme red, and if the palate be bit<g ref="char:EOLhyphen"/>ter, it makes the ſweeteſt thing taſt ſo; if a man be prepoſſeſt with an opinion, he comes like a Jury-man reſolved upon his verdict, before he heares the cauſe.</p>
+            <p>The ſecond thing is <hi>Paſſion:</hi> troubled water never repreſents the true image of a thing; <hi>facile credimus quod volumus, vel quod timemus,</hi> the heart hath ſo great an influence upon the underſtanding, that we are apt to beleeve what we deſire, or what we feare; and there<g ref="char:EOLhyphen"/>fore it is ſaid that <hi>a gift blinds the eyes of the wiſe,</hi> a gift drawes the<note place="margin">Exod. 23. 8.</note> heart to the giver, and affection works ſo upon the underſtanding, that it puts out the very eye of judgement, and makes even a wiſe man to thinke he ſees that, which indeed he doth not.</p>
+            <p>Now therefore as when a man would exactly view a thing, he wipes his eyes that no duſt or water may hinder ſight, ſo ſhould it be our care to put away all paſſion, and prejudice, that we may judge rightly.</p>
+            <p>Thirdly, there is required <hi>a right application of the thing to the rule.</hi>
+            </p>
+            <p n="1">1. We muſt with care and ſtudy examine the opinion or practice in queſtion: examine it as <hi>Joſeph</hi> did his brethren, very ſtrictly,
+<pb n="11" facs="tcp:124247:8"/> concerning its father that begot it, its brethren and aſſociates,<note place="margin">Gen. 42. <hi>verſ. 7 9, 10, 11.</hi>
+               </note> whence it came; and what the end of its comming, if not to pre<g ref="char:EOLhyphen"/>judice the State? turne it, and looke upon it every way, in its cauſes, nature, concomitants, effects, and conſequences, yet wari<g ref="char:EOLhyphen"/>ly diſtinguiſhing betweene proper and accidentall effects.</p>
+            <p n="2">2. That with much humility and ſelfe-deniall, we ſeeke to the only wiſe God, that he would preſent his truth, and make it clearly<note place="margin">Prov. 20. 27.</note> ſhine before us, that he would heale our underſtandings that we may ſee it; and by his Spirit guide our thoughts, and ſo lead us<note place="margin">Joh. 16. 13.</note> into all truth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> This Doctrine firſt diſcovers unto us the cauſe, that we have ſo many errours in the Church, like <hi>Tares among the Wheat,</hi> ſown by that <hi>envious man,</hi> like the Frogs of <hi>Egypt,</hi> creeping into<note place="margin">Matth. 13. 25.</note> every houſe, ſurely it is becauſe men <hi>judge according to appearance;</hi> this act lookes like idolatry; this forme of government lookes like the Antichriſtian; this opinion, or that way, ſuch and ſuch holy men are for: thus whiles they judge according to <hi>perſonall,</hi> or <hi>reall appearances,</hi> they judge not <hi>righteous judgement.</hi>
+            </p>
+            <p n="2">2. It diſcovers the cauſe whence it comes to paſſe that learned and godly men do often meet and diſpute, yet cannot agree upon a right determination, they have light, and no doubt look through the miſt of <hi>appearances,</hi> into the very nature of things; yet per<g ref="char:EOLhyphen"/>haps there may be <hi>paſſion</hi> or <hi>prejudice</hi> to ſway: or elſe they may be too full of ſelfe, ſelfe-ends, looking at the credit of victory, rather then the beating out of truth: or perhaps ſelfe-conceit and ſelfe<g ref="char:EOLhyphen"/>dependance,<note place="margin">Prov. 3. 5.</note> leaning too much to their owne underſtanding: and then no wonder if they judge not <hi>righteous judgement.</hi>
+            </p>
+            <p n="3">3. It diſcovers the reaſon why we have ſo many miſconceits, and evill cenſures of our Worthies in Parliament, and in our Ar<g ref="char:EOLhyphen"/>mies, men ſhooting the arrowes of harſh cenſures, out of the Bow of a proud heart, even againſt theſe Starres. Surely for the moſt part, the reaſon is, becauſe they cenſure before they ſee, <hi>and ſpeake</hi>
+               <note place="margin">Jude <hi>v. 10.</hi>
+               </note> 
+               <hi>evill of what they doe not underſtand.</hi>
+            </p>
+            <p>So I come to the third point, the compellation, (<hi>this people.</hi>) The Lord was wont to looke upon <hi>Iſrael</hi> as his owne, as <hi>Exod.</hi> 3.<note place="margin">Exod. 3. 7. Exod. 7. 16.</note> I have ſeene the affliction of <hi>my people,</hi> and <hi>Exod.</hi> 7. Let <hi>my people</hi> go: but now their idolatry hath cauſed a variation of title, now he will not owne them, but lookes upon them as ſtrangers, <hi>populus meus</hi> is now become <hi>populus iſte.</hi> Whence we may infer,</p>
+            <pb n="12" facs="tcp:124247:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>3</label> 
+               <hi>That Idolatry diſſolves a Church, unchurches a people, and breakes that bond of relation betweene God and them.</hi>
+            </p>
+            <p>For the clearing of this propoſition, I ſhall endeavour to ſhew two things.</p>
+            <list>
+               <item>1. What it is that conſtitutes a viſible Church.</item>
+               <item>2. How, and in what reſpect Idolatry diſſolves it.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the profeſſion of Chriſt, in the uſe of right ordinances, doth conſtitute a viſible Church, and difference it from all other ſocieties: and ſo it did even before Chriſts Incarnation, though more obſcurely then ſince.</p>
+            <p>As the true myſticall union of the faithfull with Chriſt, and among themſelves, is the forme that gives being to the inviſible Church: ſo an externall union by profeſſion (not publikly con<g ref="char:EOLhyphen"/>tradicted by their owne opinions and practices, as in the Papacie) gives being to the viſible Church; as may be collected from <hi>Mat.</hi> 16. 18.<note place="margin">Matth. 16. 18.</note>
+            </p>
+            <p>Now this profeſſion of Chriſt, and of a people to be his fol<g ref="char:EOLhyphen"/>lowers, muſt not onely be verball, but reall: and conſiſteth in the ſetting up of his ordinances, either by a Law, or by generall ſub<g ref="char:EOLhyphen"/>miſſion unto them, and attending upon him in the conſtant uſe of them: I ſay in the uſe of all the ordinances, <hi>habitually,</hi> and in the <hi>actuall uſe,</hi> of ſuch of them, as they are capable of.</p>
+            <p>I doe not meane thoſe inferiour ordinances of magiſtracie, marriage, &amp;c. But thoſe ſacred ordinances of preaching the Word, celebration of the Sacraments and prayer, which the Lord hath ordained and inſtituted as to be <hi>part of his worſhip;</hi> ſo alſo to be the proper, mediate, ordinary <hi>meanes</hi> of conveying the begin<g ref="char:EOLhyphen"/>nings, and encreaſe of all ſaving grace unto the ſoules of men.</p>
+            <p>Indeed the right manner of uſing theſe ordinances, with thoſe helps of diſcipline, government, &amp;c. requiſite to make the ordi<g ref="char:EOLhyphen"/>nances, the more to put forth their ſtrength, and ſo the more ef<g ref="char:EOLhyphen"/>ficacious to us; theſe I grant to be neceſſary to the <hi>well-being</hi> of a viſible Church, but the ordinances themſelves, I conceive to be of the very eſſence, and being of it: no viſible Church without them, and that a true viſible Church which hath them, as afore ſpecified.</p>
+            <p>And hence it is that the Prophet cals the whole Nation of the <hi>Jewes</hi> profeſſing themſelves to be his, in the uſe of his ordinances, <hi>the Lords flock,</hi> in reference to thoſe that were truly ſo, the deno<g ref="char:EOLhyphen"/>mination<note place="margin">Jer. 13. 17.</note> there following the better part: and the Lord cals the
+<pb n="13" facs="tcp:124247:9"/> people of <hi>Iſrael his ſonne,</hi> and ſuch they were, though not by ſpi<g ref="char:EOLhyphen"/>rituall,<note place="margin">Exod 4. 22. Hoſ. 11. 1.</note> yet by externall adoption: and ſo they are called his ſpouſe, as being married unto him by an externall covenant and ſtipula<g ref="char:EOLhyphen"/>tion.<note place="margin">Ezek. 16. 8.</note>
+            </p>
+            <p>And as by effectuall calling, there is a reall dedication of the ſoule to Chriſt, and ſo an actuall admiſſion into the inviſible Church: ſo by Baptiſme, we are given up to Chriſt, by an exter<g ref="char:EOLhyphen"/>nall dedication, and ſo admitted into the univerſall viſible Church: and thereby are united to Chriſt, and one to another, by mutuall covenant, if not actuall, and formall, yet vertuall, and interpre<g ref="char:EOLhyphen"/>tative, and thereby alſo made members of particular viſible Churches, nationall and congregationall.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Now ſecondly, as the profeſſion of Chriſt in the uſe of right or<g ref="char:EOLhyphen"/>dinances (as aforeſaid) doth conſtitute a viſible Church, ſo idola<g ref="char:EOLhyphen"/>try in ſetting up by a Law, or by generall conſent, and ſubmiſſion, a creature to be worſhipped <hi>terminatively</hi> in ſtead of God, or <hi>rela<g ref="char:EOLhyphen"/>tively,</hi> intending or pretending to worſhip God by worſhipping that creature, this diſſolves a Church.</p>
+            <p>An inſtance of this we have in my text, this people having ſet up an Idol to worſhip, though they intended not to terminate their worſhip in the Idol, but to worſhip the Lord by it, as <hi>verſ.</hi> 5. yet for this, the Lord ſpeakes of them as a people caſt off,<note place="margin">Exod. 32. 5.</note> and at preſent would not ſeeme to owne them. And howſoever that Nation untill Chriſts incarnation had a peculiar priviledge, which no other Nation could challenge, in reſpect of Gods abſo<g ref="char:EOLhyphen"/>lute covenant made with them; and ſo were not <hi>de facto,</hi> at leaſt on Gods part, unchurched, he having not pronounced the ſen<g ref="char:EOLhyphen"/>tence of divorce upon them: yet their ſinne, both in reſpect of their demerit, diſhonouring God in ſo high a degree, and alſo in reſpect of the intrinſecall nature thereof, as having thereby forſaken the Lord, and taken a ſtrange God: This ſinne, I ſay, on their part did by breach of covenant actually unchurch them, and on Gods part, it did <hi>de jure,</hi> unchurch them: and <hi>de facto,</hi> had unchurched any other Nation whatſoever: And during their continuance in that ſinne, they had forfeited their right, loſt the comfort and ſenſe of that relation betweene God and them: neither could o<g ref="char:EOLhyphen"/>thers that were unacquainted with that abſolute covenant looke upon them as Gods Church any longer.</p>
+            <p>Now as our Saviour yeelds, that the <hi>Jewes</hi> though they had
+<pb n="14" facs="tcp:124247:10"/> nothing of God in them, and were none of his ſpiritually, but<note place="margin">Joh. 8. 37. 39. 41.</note> the children of the Devill: yet living under right ordinances, they were members of the true viſible Church, the ſonnes of <hi>Abraham</hi> and of God, by externall ſonſhip: ſo alſo the <hi>Jewes</hi> confeſſe that if they were children of fornications, (<hi>i. e.</hi>) members of an idola<g ref="char:EOLhyphen"/>trous Church, they were broken off from God, and none of his ſons, no not by externall adoption.</p>
+            <p>Indeed ſuperſtitious additions to the ordinances, or an erroneous way and manner of uſing them, are ſins of an high nature, and in a ſenſe the taking of Gods name in vaine, in hindering the ordinan<g ref="char:EOLhyphen"/>ces from attaining their true and proper end, namely the honou<g ref="char:EOLhyphen"/>ring of Chriſt, and edification of his people, at leaſt in that degree as otherwiſe they might.</p>
+            <p>Yet as I conceive, ſuch ſuperſtitious additions and errours in the manner of uſing the ordinances, cannot amount to a ſetting up of an Idol, and ſo diſſolve a Church. Though the wife be a blaſ<g ref="char:EOLhyphen"/>phemer, and guilty of the groſſeſt ſinnes, yet a wife ſtill, adulte<g ref="char:EOLhyphen"/>ry onely breakes the marriage bond, ſo only Idolatry breakes that bond of relation betweene God and a people. When rebellious <hi>Iſraell</hi> had played the harlot, and would not repent, but conti<g ref="char:EOLhyphen"/>nued obſtinate in her Idolatry, the Lord gave her a bill of divorce<g ref="char:EOLhyphen"/>ment<note place="margin">Jer. 3. 8.</note> and caſt her away.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> Now therefore it nearely concernes a people, of all other ſinnes to beware of Idolatry and idols. <note n="b" place="margin">1 Joh. 5. 21</note> As we have cauſe to be humbled for the Idolatry that hath beene committed in the Land, leſt it becomes ours by conſent, ſo for time to come with deteſtation to caſt it utterly out of the Land. <note n="c" place="margin">Iſa. 30. 22.</note> Yea to remove all appearances of it, a true Church; like a modeſt woman, ſhould not endure a whoriſh dreſſe: Yea and to remove all occaſions of Idolatry, though not formally ſo, not <hi>gradus in re,</hi> yet if it be <hi>gradus ad rem,</hi> any occaſion, helpe, or ſtep to it, put it farre away, <note n="d" place="margin">Job. 11. 14.</note> and ſo keepe the Kingdome farre from an evill matter.</p>
+            <p>In the fourth place be pleaſed to take notice of the nature of <hi>Iſ<g ref="char:EOLhyphen"/>raels</hi> ſinne, and the judgement denounced againſt it.</p>
+            <p>Firſt, their ſinne is <hi>obſtinacy,</hi> metaphorically ſet downe (they are <hi>a ſtiffenecked people.</hi>)</p>
+            <p>Firſt, By <hi>necke</hi> is meant, the heart or will, as <hi>Zedekiah ſtiffened his neck and hardened his heart,</hi> 
+               <note n="e" place="margin">2 Chro. 36. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> which is all one; as the neck of the Oxe beareth the yoke, and ſo drawes in the Teame; ſo ſhould
+<pb n="15" facs="tcp:124247:10"/> the heart beare the yoke of Chriſt, and goe on in his wayes.</p>
+            <p>Secondly, By <hi>ſtiffeneſſe</hi> or <hi>hardneſſe</hi> of the heart, is meant the ſettled ſtrength of the will to goe on in ſinne. And when once it is ſo ſet,</p>
+            <p>Firſt, the heart becomes impenetrable, like <hi>Pharaohs,</hi> nothing can pierce it, <note n="f" place="margin">Exod. 7. 23.</note> either with feare <hi>of ſinne,</hi> before it is committed, or with remorſe <hi>for ſinne</hi> when it is committed; but is fearleſs and ſenſleſſe.<note place="margin">Iſa. 28. 15. Zep. 1. 12.</note>
+            </p>
+            <p>Secondly, the heart becomes alſo inflexible and unalterable, like the <hi>Adamant ſtone,</hi> 
+               <note n="g" place="margin">Zach. 7. 12.</note> nothing can worke upon it, or bring it into a better forme: No <hi>waſhing</hi> can make this <hi>Blackmore white.</hi> 
+               <note n="h" place="margin">Jer. 13. 23</note>
+            </p>
+            <p>Indeed, firſt, there is a naturall hardneſſe which we bring with us into the world, <note n="i" place="margin">Iſa. 48. 8.</note> a child though it hath a tender body, yet it hath a hard heart.</p>
+            <p>Secondly, there are ſome remainders of this hardneſſe in the hearts of the beſt, even of Chriſts owne diſciples, <note n="k" place="margin">Mar. 6. 52.</note> but this is <hi>partiall,</hi> and <hi>but for a time.</hi> But when this ſinne comes to the height, and is <hi>totall</hi> and <hi>finall,</hi> the heart fully and unalterably ſet to doe e<g ref="char:EOLhyphen"/>vill, <note n="a" place="margin">Eccleſ. 8. 1.</note> then it properly denominates a perſon or people obſtinate and <hi>ſtiffenecked.</hi>
+            </p>
+            <p>This hardneſſe is partly <hi>habituall</hi> voluntarily procured; and that,</p>
+            <p>Firſt, by long and frequent committing of ſin: <note n="b" place="margin">Neh. 9. 29.</note> acts encreaſe habits, and indiſpoſe the ſubject to receive contrary habits: thus the heart becomes like the <hi>high way,</hi> ſo hardned by the often paſ<g ref="char:EOLhyphen"/>ſage of ſinne, that no <hi>ſeed</hi> will enter. <note n="c" place="margin">Mat. 13. 4.</note>
+            </p>
+            <p>Secondly, by long ſtanding out under the meanes of grace: like the Tortoiſe which floats ſo long upon the water, untill the<note place="margin">Plin.</note> beames of the Sunne have hardened its ſhell that it cannot ſinke, ſo living long in ſinne under the Sun-ſhine of the Goſpell, the heart becomes ſo hardened that it cannot repent. <note n="d" place="margin">Rom. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.</note>
+            </p>
+            <p>This hardneſſe is partly alſo penall, and judiciall: The Lord for their ſinnes, ſo many, and ſo long continued in, and for re<g ref="char:EOLhyphen"/>fuſing of grace offered in the meanes, in his juſt judgment gives men up to Satan, and to their owne hearts luſts, letting them looſe upon them, and ſo their hearts become fully obdurate.</p>
+            <p>This is the nature of their ſinne, but in what degree and how generally ſpread, we cannot exactly determine.</p>
+            <pb n="16" facs="tcp:124247:11"/>
+            <p>Secondly, the judgement denounced, is ſet downe in a metapho<g ref="char:EOLhyphen"/>ricall expreſſion, and implies that the Lord was ready by ſome ſe<g ref="char:EOLhyphen"/>vere judgement to <hi>conſume</hi> that people; his <hi>anger</hi> growne <hi>hot</hi> even to fury, like an <hi>enraged Lyon,</hi> ready to teare to peeces and con<g ref="char:EOLhyphen"/>ſume.</p>
+            <p>From the ſinne and puniſhment, the doctrine which ariſeth is this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>4</label> 
+               <hi>That obſtinacy in great and grievous ſinnes, under effectuall meanes, is uſually the immediate forerunner of ruine: it is a token that the Lords anger is hot againſt a Nation, and ready to breake in upon it by ſome con<g ref="char:EOLhyphen"/>ſuming judgement.</hi>
+            </p>
+            <p>I deſire to inſtance in an example or two. In the 13. of <hi>Jere<g ref="char:EOLhyphen"/>miah</hi>
+               <note place="margin">Jer. 13.</note> by a <hi>linnen girdle hid at the river</hi> Euphrates <hi>untill, it was rotten,</hi>
+               <note place="margin">Ver. 10.</note> the Prophet ſhewes that the Lord would caſt the State out of his ſight untill it was conſumed, <hi>verſe</hi> 10. Now becauſe they preſu<g ref="char:EOLhyphen"/>med of ſafety, that either through the wiſedome of their State, or at leaſt that by their cunning, each private perſon would make ſome ſhift for himſelfe, therefore he tels them that they ſhould be like <hi>drunken men,</hi> 
+               <note n="a" place="margin">Ver. 12, 13.</note> ſottiſh, and ſtaggering to and fro in their reſolutions, not knowing what to pitch upon for their ſafety. And becauſe they preſumed of their power, <note n="b" place="margin">Verſ. 14.</note> he tels them that they were to God but as <hi>a pot in the hand of the potter,</hi> ſoone broken to pieces by him; yea the Lord will cauſe them one to <hi>daſh againſt another,</hi> one to plunder and kill another. And becauſe they ex<g ref="char:EOLhyphen"/>pected forraine helpe from <hi>Aegypt,</hi> he tels them <note n="c" place="margin">Verſ. 16.</note> that it ſhould be <hi>darkeneſſe</hi> unto them, and ſhould rather increaſe then abate their miſery. Now at the <hi>ver.</hi> 15. 16. he exhorts them to repentance as the moſt proper remedy to prevent all, doe not proudly deſpiſe<note place="margin">(<hi>d</hi>) Verſ. 15. 16</note> the Lords threatning; but humble your ſelves, and by repentance give God the glory of his truth, juſtice, and power, which by your ſinnes you have impeached: But <hi>ver.</hi> 17. <note n="e" place="margin">Verſ. 17.</note> if ye will not heare this, but proudly deſpiſe this admonition, and ſtand out under the meanes of grace; ſurely though ye be the Lords owne people,<note place="margin">2 Chro. 36. 17.</note> yet ye ſhall be <hi>carryed away captives;</hi> and he ſpeakes in the preſent<g ref="char:EOLhyphen"/>tence, to note unto them the certainty of the event, that it was as ſure to come to paſſe as if done already; the particulars of the judgement is more largely ſet downe, 2 <hi>Chro.</hi> 36. 17.</p>
+            <p>Firſt, the ſword of the <hi>Chaldeans ſhou'd come and waſt their countrey:</hi> and not onely ſo, but <hi>they that eſcape the Sword ſhall loſe their liberties,</hi>
+               <pb n="17" facs="tcp:124247:11"/> which they did enjoy, and be made captives and ſlaves to a <hi>ſtrange King;</hi> and (which was worſt of all) with their liberties they ſhould loſe their <hi>Religion</hi> too, and be carried into <hi>Babylon.</hi>
+            </p>
+            <p>Another example we have in the 11. of <hi>Matthew, Capernaum</hi> had<note place="margin">Matth. 11. 29.</note> ſo many outward and ſpirituall priviledges, that it was ſaid to be <hi>lift up to heaven;</hi> for riches and honour, it was the chiefe citie in that Province, and for ſpirituall priviledges, there was the ſeat of the <hi>Meſſiah,</hi> the place of his habitation, there he wrought ma<g ref="char:EOLhyphen"/>ny wonderfull miracles, and preached many excellent Sermons: ſuch effectuall meanes, that might have moved even the ſtony hearted <hi>Sodomites</hi> if they had beene alive: yet ſuch was <hi>Capernaums obſtinacy,</hi> that all theſe Sermons, mercies, miracles, wrought not upon this Citie; and therefore ſaith our Saviour, this Citie that by pride and proſperitie is ſo lifted up, ſhall be brought full low, and ſo (as Hiſtories report) it was overthrowne, of this great Citie, nothing there remayning but two or three poore Fiſher<g ref="char:EOLhyphen"/>mens Cottages.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> The reaſons are two: Firſt, becauſe obſtinacy is the <hi>full height</hi> of ſinne and its full meaſure. Firſt, as obſtinacy is the greateſt aggravation of ſinne, and maketh our ſinnes great in Gods ac<g ref="char:EOLhyphen"/>count, and moſt provoking, as carrying with it great <hi>unthank<g ref="char:EOLhyphen"/>fulneſſe</hi> to God, <hi>contempt</hi> of the meanes of grace and of God, and of all the good offered to us in the meanes. So ſecondly, it cauſeth a reall increaſe of ſinne; the heart like a Caſtle reſiſting the Spirits aſſault upon it in the ordinances, corruption within gathers ſtrength: the flame of ſin if not blowne quite out by the Spirit in the ordinances increaſeth accidentally by the blowing of it backe: Now all ſinne like poyſon is of a deſtructive nature, though it not alwayes actually kils through want of meaſure; now when it is growne to the full, then it uſually deſtroyes: So when the <hi>Amo<g ref="char:EOLhyphen"/>rites wickedneſſe was full,</hi> the Lord caſt them out.<note place="margin">Gen. 15. 15: <hi>Reaſ. 2.</hi>
+               </note>
+            </p>
+            <p>A ſecond reaſon is, becauſe it makes a people <hi>incorrigible,</hi> and ſo brings them into a remedileſſe condition; the Lord for a time at the entreaty of the <hi>dreſſers</hi> did forbeare the Jewiſh ſtate, that <hi>barren Figtree,</hi> but it was to try if the digging or dunging of an evange<g ref="char:EOLhyphen"/>licall miniſtery would produce a <hi>reformation,</hi> but when it continu<g ref="char:EOLhyphen"/>ed unfruitfull, it was by <hi>Titus</hi> and <hi>Veſpaſian</hi> hewen downe; and <hi>Solomon</hi> ſaith <note n="b" place="margin">Prov. 29. 1</note> that ſuch as <hi>harden their hearts under frequent re<g ref="char:EOLhyphen"/>proofes,</hi> under effectuall meanes, <hi>ſhall be deſtroyed,</hi> broken to pieces
+<pb n="18" facs="tcp:124247:12"/> as a ſtone with an hammer (as the word ſignifies) becauſe they are in themſelves <hi>remedileſſe;</hi> although indeed there is a remedy in it ſelfe, namely Gods mercy in Chriſt upon their repentance, yet none to the obſtinate, becauſe he wilfully rejecteth the remedy: indeed the prayers of Gods people may keepe off a temporall judgement for a time, (as anon we ſhall ſhew) but the Lords for<g ref="char:EOLhyphen"/>bearance will but make way for a heavier judgement in the end if they continue obſtinate.</p>
+            <p>For application: If obſtinacie in ſinne provoketh the wrath of God againſt a people, and haſtens its ruine, then certainly repen<g ref="char:EOLhyphen"/>tance is the proper remedy to appeaſe the wrath of God, and ſave from ruine. But this dutie having beene often taught and preſſed, in this honourable Auditory, I ſhall paſſe over: and proceed to an<g ref="char:EOLhyphen"/>other obſervation.</p>
+            <p>In the firſt place therefore obſerve, <hi>the exception of Moſes out of this threatning</hi> here <hi>implyed,</hi> with <hi>this gracious promiſe</hi> here <hi>expreſſed, I will make of thee a mighty Nation, Efficiam ut ex te gens oriatur magna, vel praeficiam te genti multo majori,</hi> (ſo the <hi>Chaldee</hi> Paraphraſe hath it) that either the Lord would raiſe him up a people, out of the loynes of <hi>Moſes,</hi> or elſe give him the Princedome over ſome other nation: How ever it be, the Lord here promiſeth not onely to ſave his per<g ref="char:EOLhyphen"/>ſon, but to raiſe his houſe: and the like promiſe upon the like oc<g ref="char:EOLhyphen"/>caſion the Lord made unto him, <hi>Numb.</hi> 14. 12. Whence wee inferre<note place="margin">Numb. 14. 12.</note> this propoſition.</p>
+            <p>
+               <hi>In all the combuſtions and devaſtations wherewith the kingdomes of the earth are ſhaken, as it is the Lords care to keep his Church on foot, ſo alſo to preſerve every of his ſervants perſons, and to recompence their outward loſſes.</hi>
+            </p>
+            <p>This generall falleth into three particulars.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, <hi>The Lord will certainly keepe his Church on foot ſo long as the world endures:</hi> No ſooner had the Lord a thought of deſtroying this people, but he preſently reſolves upon another, for <hi>the Lord loves the gates of Sion more then all the dwellings of Jacob,</hi> 
+               <note n="a" place="margin">Pſal 87. 2.</note> hee delighteth more in his Church then in all other ſocieties: and he upholds the world, keepes off judgements, beſtowes many bleſ<g ref="char:EOLhyphen"/>ſings for the Churches ſake <note n="b" place="margin">Iſa. 19. 24.</note>; if his Church ſhould faile, the world would fall to ruine.</p>
+            <p>Indeed it is not tied to any certaineplace, but is in the world like a ſhip in the Sea, driven from place to place, but ſtil in the Sea.</p>
+            <p>Neither doth it at all times continue, the ſame degree of outward
+<pb n="19" facs="tcp:124247:12"/> ſplendours but like the Moone, not alwayes alike viſible, yea ſome<g ref="char:EOLhyphen"/>times ſcarſe diſcernible, yet ſtill in the heavens; and therefore how<g ref="char:EOLhyphen"/>ſoever Satan and his inſtruments by crueltie, and ſubtiltie, endea<g ref="char:EOLhyphen"/>vour the Churches ruine; yet all the power and policie of hell ſhall never ſo farre prevaile, as utterly to deſtroy it; <note n="d" place="margin">Matth. 16. 18.</note> ſooner may they pull the Sunne out of the Firmament then the Church out of the world, and when the Lord deſtroyes the rebellious multitude, <hi>he will not utterly deſtroy the houſe of Jacob</hi> 
+               <note n="e" place="margin">Amos 9. 8.</note>.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>When the Lord deſtroyes a ſinfull nation, he will preſerve his owne people, he will not deſtroy the righteous</hi> with the wicked <note n="f" place="margin">Gen. 18. 23</note>: though hee toſſeth the people and ſifteth them, as Wheate in a Sieve, though he ſcattereth the wicked, and like duſt they are blowne away by the winde of his wrath, yet not a <hi>graine of his Wheate</hi> ſhall be loſt <note n="g" place="margin">Amos 9. 8, 9.</note>; he will either keepe them out of the furnace, or preſerve them in it, hee will either ſave them from the judge<g ref="char:EOLhyphen"/>ment it ſelfe, or from the evill of it, that it ſhall not hurt them; one way or other he wil be an <hi>hiding place</hi> 
+               <note n="a" place="margin">Iſay 32. 2. Iſay 8. 14.</note> and a <hi>Sanctuary</hi> to his own ſervants: as here he promiſeth to ſave his ſervant <hi>Moſes,</hi> ſo this unchangeable God, with whom is no reſpect of perſons, wil doubt<g ref="char:EOLhyphen"/>leſſe doe the like for them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, he will not onely ſave their perſons, but alſo recom<g ref="char:EOLhyphen"/>pence their loſſes; if <hi>Moſes</hi> loſe his principalitie God will give him another; it ſhall be the rayſing, not the overthrow of his houſe; if any of Gods ſervants ſhall, with <hi>Amaziah,</hi> be troubled for loſſe of their offices, lands, revennues, or mony, as hee for his hundred talents <note n="c" place="margin">2 Chro. 25. 9.</note>; the anſwer of the man of God may ſatisfie him; <hi>Is not the Lord able to give thee more then this?</hi>
+            </p>
+            <p>Firſt, for loſſes voluntary; have you willingly laid out much for Chriſt in the ſervice of the Church and State? remember how God dealt with <hi>Abraham,</hi> 
+               <note n="d" place="margin">Heb. 11. 8.</note> he in obedience to God, and for his ſake left his native country, &amp; all he had; and yet was no loſer, for the Lord recompenced his loſſe, and gave him a better for it.</p>
+            <p>Secondly, for loſſes caſtigatory; conſider how God dealt with <hi>Job,</hi> he was plundered by the <hi>Chaldeans</hi> at one time, and by the <hi>Sabeans</hi> at another; even quite undone, yet the Lord raiſed him up to a greater eſtate then ever <note n="e" place="margin">Job 42. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Now therefore Gods people have cauſe to bee well contented, &amp; to <hi>ſuffer with patience the ſpoyling of their goods,</hi> not only upon this ground, that <hi>they ſhall have in heaven, a better and an enduring ſub<g ref="char:EOLhyphen"/>ſtance</hi>
+               <pb n="20" facs="tcp:124247:13"/>
+               <note n="f" place="margin">Heb. 10. 34</note>. But alſo even in this life they ſhal have an hundred fold <note n="g" place="margin">Marke 10. 30.</note>; Not onely that which is equivalent in ſpirituall graces, but alſo even in outward things; ſo farre as ſhall bee for their ſpirituall good. They ſhall be no loſers, as our Saviour promiſeth, that in all the troubles that were to come upon the world, they ſhould not be <hi>an haire the worſer</hi> 
+               <note n="h" place="margin">Luk. 21. 12</note>: The rivers emptie themſelves into the Sea, and the Sea fils all their channels againe, and ſo will the Lord returne backe whatſoever his ſervants lay out upon him, nay they ſhall be gainers, <hi>they ſcatter and are the more encreaſed</hi> 
+               <note n="i" place="margin">Prov. 11. 24.</note>.</p>
+            <p>Now wee are come to the laſt point. The Lords intimation of the remedy, <hi>let me alone that, &amp;c.</hi> which how howſoever it ſee<g ref="char:EOLhyphen"/>meth to be a prevention of <hi>Moſes</hi> his mediation, yet as <hi>Auguſtine</hi>
+               <note place="margin">Non pracipien<g ref="char:EOLhyphen"/>do, ſed monendo et exprimendo quid illum a ſupplicio revo<g ref="char:EOLhyphen"/>cet. Aug. in Exo. q. 149.</note> well obſerves, the words doe not carry in them a prohibition of <hi>Moſes</hi> praying, but an intimation of the remedy that would ſtay his hand from deſtroying; and an indirect incouragement to the uſe of this remedy of prayer for them, whetting his deſires, and blowing backe the flame to make it burne the faſter; and this uſe <hi>Moſes</hi> made of it; for in the next Verſe wee finde him earneſtly praying and mediating for them; ſo that from hence this truth naturally ariſeth;</p>
+            <q>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>6</label> That the fervent prayers of Gods people are the moſt effectuall meanes to ſave a ſtiff-necked people from preſent ruine.</q>
+            <p>This here the Lord intimates, and the event proved it ſo; for upon the earneſt prayer of <hi>Moſes</hi> we finde, Verſe 14. that the Lord <hi>changed his minde from the evill he intended againſt them</hi> 
+               <note n="a" place="margin">Exod. 32. 14.</note>, and which he had brought upon them, <hi>had not Moſes ſtood in the gap</hi> 
+               <note n="b" place="margin">Pſal. 106. 23.</note>.</p>
+            <p>We reade that the prayers of the Church did great things on the behalfe of <hi>Peter</hi> 
+               <note n="c" place="margin">Act. 12. 5, 6, &amp;c.</note>, brake open the priſon doores, made his chaines fall off, made the Iron gate flie open of its owne accord, and ſo removed all obſtacles that might hinder his enlargement; I confes here were the prayers of many for one, &amp; ſo the leſſe wo<g ref="char:cmbAbbrStroke">̄</g>der: but we may reade of <hi>Jacob</hi> 
+               <note n="d" place="margin">Hoſ. 12. 4.</note> that when his brother came againſt him with an army, he alone by his prayers and teares ſo prevai<g ref="char:EOLhyphen"/>led with God that he obtained a glorious victory, not conquering the Army, but overcomming his brothers heart, that all ended in<note place="margin">Gen. 32. 24. &amp; 33 4.</note> brotherly complements, &amp; expreſſions of love in a ſweet agreement.</p>
+            <p>We finde one <hi>Lot</hi> prevailing for a whole Citie <note n="f" place="margin">Gen. 19. 20.</note>, and <hi>Abraham</hi> for five Cities <note n="g" place="margin">Gen. 18. 32.</note>, and <hi>Deborah</hi> by her prayers trode downe the Churches enemies <note n="h" place="margin">Jud. 5. 21.</note>: And if faſting and prayer will caſt out
+<pb n="21" facs="tcp:124247:13"/> Devils, why not the Churches enemies <note n="i" place="margin">Mat. 17. 21</note>? and if the prayer of faith will ſave a ſicke perſon from the naturall death <note n="k" place="margin">Iam. 5. 15.</note>, why not a ſicke dying State from a civill death?</p>
+            <p>And yet howſoever the prayers of Gods people are effectuall meanes, yet have we no certaine aſſurance that they ſhall actually ſave ſuch a ſtiffe-necked people from ruine; and therefore we finde the promiſes made to encourage men to ſeeke the Lord in a time of publike danger, for ſuch a people, to be ſet downe in a doubtfull manner with an (if) in reſpect of the contingencie of the event: <hi>if God will thinke upon us that we periſh not</hi> 
+               <note n="l" place="margin">Jona. 1. 6.</note>, and <hi>who knoweth if God will turne from his fierce wrath that we periſh not</hi> 
+               <note n="m" place="margin">Jona. 3. 9. Jo. 2. 14.</note>?</p>
+            <p>For firſt, their prayers may be ſo faulty in the manner, that they may become vaine and fruitleſſe performances <note n="n" place="margin">Iſa. 1. 13.</note>; and Saint <hi>James</hi> tels us that oftentimes the cauſe why men are not ſucceſſe<g ref="char:EOLhyphen"/>full in their deſignes, is either becauſe they <hi>ſought not God</hi> by pray<g ref="char:EOLhyphen"/>er, or failed in the manner, <hi>Yee have not becauſe yee aske amiſſe</hi> 
+               <note n="o" place="margin">Iam. 4; 2, 3.</note>.</p>
+            <p>Or ſecondly, the ſinnes of a Nation may be ſo great in them<g ref="char:EOLhyphen"/>ſelves, and ſo aggravated, and the Lord ſo <hi>wearied in repenting</hi> 
+               <note n="p" place="margin">Ier. 15. 6.</note>, in often calling backe his anger, and reverſing his ſentence that had gone out againſt them, that he peremptorily reſolves to repent no more: yea <hi>though Daniel, Noah, and Joab,</hi> though holy men ſhould <hi>entreat for them, yet ſhall they ſave but their owne ſoules</hi> 
+               <note n="q" place="margin">Ezek. 14. 14<g ref="char:punc">▪</g>
+               </note>.</p>
+            <p>Or thirdly, the ſafety of a Nation is but a temporall bleſſing, though a great one, and we have no abſolute promiſe to obtaine them by our prayers: indeed ſpirituall mercies are <hi>bona abſoluta,</hi> and <hi>bona bonum habentem facientia,</hi> they are ever good to him that hath them, and therefore we have an abſolute promiſe to ſpeed in our<note place="margin">Mat. 7. 11. Luke 11. 13.</note> prayers for them: he will never deny <hi>things truly good</hi> to them that aske. But outward bleſſings are only <hi>bona reſpectiva,</hi> good in refe<g ref="char:EOLhyphen"/>rence to certain ends, ſomtimes by accident they make the poſſeſſor worſe, and ſometimes the deniall of an outward mercy makes way for a greater; and ſo oftentimes it comes to paſſe that <hi>negando ac<g ref="char:EOLhyphen"/>cipimus,</hi> we receive a mercy in Gods deniall, we may have the end of our prayer in the deniall of the forme.</p>
+            <p>Howſoever yet the prayers of Gods people are the proper reme<g ref="char:EOLhyphen"/>dy to ſave a ſtiffe-necked people that will not repent, it is all that can be done for them.</p>
+            <p>For firſt, it is the moſt effectuall meanes to appeaſe the wrath of<note place="margin">1 Sam. 25. 24. 32.</note> God, and to ſtay him from deſtroying: as <hi>Abigails</hi> humble entrea<g ref="char:EOLhyphen"/>ty prevailed with <hi>David.</hi>
+            </p>
+            <pb n="22" facs="tcp:124247:14"/>
+            <p>Secondly, it is certaine that if prayer like <hi>Noahs</hi> Dove, be ſent forth, it ſhall never returne without an Olive branch, either with tidings of an abatement of the generall deluge, for the common good: or at leaſt it ſhall <hi>returne</hi> with much comfort and peace <hi>into your petitioner boſome.</hi>
+               <note place="margin">Pſal. 35. 19.</note>
+            </p>
+            <p>And thirdly, as nothing without it can ſave ſuch a ſtiffe-necked Nation, ſo if any thing will doe it, the prayers of Gods people will, and therefore the effectuall prayers of Gods people ſhould be procured in a time of danger: as the Mariners did <hi>Jo<g ref="char:EOLhyphen"/>nahs</hi>
+               <note place="margin">Jon. 1. 6.</note> in the ſtorme, and the <hi>Ninivites</hi> cried mightily when their City<note place="margin">Jon. 3. 9.</note> was in danger, though but upon this ground, <hi>Who knoweth what the Lord may doe?</hi>
+            </p>
+            <p>Outward meanes indeed are not to be neglected: as we muſt not idolize the meanes, in truſting in them; ſo neither tempt God in neglecting of them.</p>
+            <p>Sometimes indeed the Lord will doe the worke by his own im<g ref="char:EOLhyphen"/>mediate<note place="margin">2 Chro. 20. 17.</note> hand, <hi>then the people are to ſtand ſtil and ſee the ſalvation of God:</hi> But ordinarily the arme of the Lord workes by the hand of <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi>
+               <note place="margin">Iſa. 63. 12.</note> all that is in our power muſt be done by us; our Saviour told his Diſciples, that howſoever whiles he was perſonally preſent with them, he did miraculouſly provide for their ſuſtentation,<note place="margin">Luke 22. 36.</note> and protection without ſcrip or ſword, and they found no want of theſe meanes: yet after his aſcenſion, they muſt uſe ordinary meanes, a ſcrip and a ſword muſt be procured, yea, then a ſword more neceſſary then a coat, <hi>ſell thy coat and buy a ſword.</hi> In ſa<g ref="char:EOLhyphen"/>ving<note place="margin">Jon. 1. 6. verſ. 5. 13.</note> the Ship in that tempeſt in the firſt of <hi>Jonah,</hi> as they were praying and crying to the Deity for helpe, ſo they ſpared neither coſt nor paines to helpe themſelves, they rowed hard, <hi>verſ.</hi> 5. and threw out their goods, <hi>verſ.</hi> 15. And when enraged <hi>Eſau</hi> came<note place="margin">Hoſ. 12. 4. Gen. 32. &amp;c. 34. 1.</note> with an army againſt his brother <hi>Jacob</hi> and his family: as <hi>Jacob</hi> wraſtled with God by his teares and prayers, ſo withall he uſed prudent and ſubmiſſive endeavours for a pacification.</p>
+            <p>There muſt be a concurrence of three things to make prayer ef<g ref="char:EOLhyphen"/>fectuall to ſave a Nation from ruine.</p>
+            <p n="1">1. The perſons praying muſt be <hi>holy men,</hi> ſuch as <hi>Moſes</hi> was: for, firſt ſuch only can pray in a ſpirituall manner, as having the ſpiri<g ref="char:EOLhyphen"/>tuall gift of prayer: culinary fire is in every houſe, but the element of fire is ſo rare, that it is a queſtion whether there be any ſuch thing exiſtent or no: ſo the naturall gift of prayer is very com<g ref="char:EOLhyphen"/>mon,
+<pb n="23" facs="tcp:124247:14"/> that is, ſuch a praying faculty, as a naturall man may acquire or have by naturall meanes, as quickneſſe of wit, ſtrength of me<g ref="char:EOLhyphen"/>mory, elocution, and exerciſe in the word and prayer. But ſpiri<g ref="char:EOLhyphen"/>tuall prayer the breathing up of holy and ſpirituall deſires, whe<g ref="char:EOLhyphen"/>ther for outward or ſpirituall mercies, yet alwayes for ſpirituall ends; this fire comes from Heaven, this ſpirituall gift of prayer comes from the <hi>Spirit of grace,</hi> that doth <hi>diſponere</hi> and <hi>excitare,</hi> gi<g ref="char:EOLhyphen"/>ving<note place="margin">Zac. 12. 10.</note> both the <hi>habit</hi> and the <hi>act</hi> of prayer; the power to pray, and actuates that power: it brings into the ſoule the fuell of holy de<g ref="char:EOLhyphen"/>ſires, and enkindles them alſo, and ſets then a burning. Second<g ref="char:EOLhyphen"/>ly, as holy men onely can pray in a ſpirituall manner, ſo their prayers onely are prevalent; for in a ſenſe they are the prayers of<note place="margin">Rom. 8. 27.</note> Chriſt, indited by his Spirit, put up in his name, and preſented by his mediation, ſo that when ſuch men pray, Chriſt in his mem<g ref="char:EOLhyphen"/>bers praies and prevailes.</p>
+            <p n="2">2. They muſt be ſuch prayers as <hi>Moſes</hi> his prayers were, ear<g ref="char:EOLhyphen"/>neſt<note place="margin">Verſ. 10, 11, 12, 13.</note> ſtrivings and wraſtlings with God.</p>
+            <p>Firſt, from an heart touched with a deepe ſenſe of our wants; we ſhould offer up prayers and ſupplications <hi>with ſtrong cries and</hi>
+               <note place="margin">Heb. 5 7. Rom. 8. 26.</note> 
+               <hi>teares,</hi> as our Saviour did in the dayes of his fleſh; with ſighs and groanes unutterable, earneſt ejaculations, like darts ſhot up to Heaven, out of an affectionate heart; our ſpirits in their deſires, like <hi>Noahs Arke,</hi> ſhould riſe the higher, as the waters grow deeper, and the flouds greater: ſo we finde that Chriſt prayed the more earneſtly, when in that bitter agony; formall cold prayers, like<note place="margin">Luke. 22. 36.</note> 
+               <hi>Caeſars</hi> hartleſſe Sacrifice, will not profit us, nor finde acceptance with God: painted fire as it hath no heate, ſo it is of no uſe: it is an argument that we diſeſteeme and undervalue a mercy, when we conceive ſuch cold prayers to be fit meanes to procure it.</p>
+            <p>Secondly, our prayers muſt be argumentative, perſuaſive entrea<g ref="char:EOLhyphen"/>ties; preſſing the Lord with arguments: we muſt plead with God, and reaſon the matter with him, by reverent expoſtulations: the Lord is well pleaſed to <hi>be reaſoned withall</hi> by ſuch as are <hi>refor<g ref="char:EOLhyphen"/>med</hi>
+               <note place="margin">Iſa. 1. 16. 17.</note> and <hi>waſhed,</hi> eſpecially in his owne language: indeed we can plead nothing that is in us to move the Lord to mercy; but what is in his nature, his Chriſt, his promiſes: we have many ex<g ref="char:EOLhyphen"/>amples of this kinde of prayer in Scripture, as it is acceptable to God, ſo very prevalent with him: as here we finde that <hi>Moſes</hi> thus prayed and prevailed, <hi>verſ.</hi> 14.<note place="margin">Exod. 32. 14.</note>
+            </p>
+            <pb n="24" facs="tcp:124247:15"/>
+            <p>Thirdly, as <hi>Moſes</hi> in his, ſo we in our prayers, ſhould not on<g ref="char:EOLhyphen"/>ly ſtrive againſt the preſent outward judgement, but eſpecially a<g ref="char:EOLhyphen"/>gainſt the power and guilt of ſinne, that cauſe the judgement: ſo did <hi>Moſes</hi> here as we ſee, <hi>verſ.</hi> 31, 32. he confeſſeth and bewail<g ref="char:EOLhyphen"/>eth<note place="margin">Ex. 32. 31, 32.</note> their ſinne, and cries unto the Lord for pardon of it, that ſo the Nation might be every whit whole. We ought not onely to<note place="margin">Ioh. 7. 23.</note> ſtrive againſt the plague without, but againſt the plague of <hi>the heart:</hi> not onely againſt warres and contentions, but againſt pride,<note place="margin">1 King. 8. 38.</note> covetouſneſſe, ambition, and ſuch other <hi>luſts</hi> of the heart, from<note place="margin">Iam. 4. 1. Prov. 13. 10.</note> whence they come.</p>
+            <p>We ſhould not onely as Chirurgions looke at the outward wound of the Kingdome, and ſeeke the cure of that by outward applications, but like the Phyſitian, looke into the cauſes of theſe evils, and labour to procure a remedy for thoſe inward diſtempers, whence the outward doe ſpring.</p>
+            <p>If we have not the evils removed that provoke the wrath of God, by a through reformation, as well as the outward judgement: if by true repentance peace be not made with God as well as an outward peace in the Kingdome, ſurely though the outward evils be cut off, yet like <hi>Sampſons</hi> haire, they will grow againe; if we cut off onely the branches, the root will ſprout againe.</p>
+            <p>Now therefore ſuch prayers as <hi>Moſes</hi> uſed, by ſuch men as <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> was, and in ſuch an order as <hi>Moſes</hi> did, are moſt effectuall means to ſave a ſinfull Nation in time of the greateſt danger.</p>
+            <p>Now the reaſons why ſuch prayers are ſo effectuall for the ſa<g ref="char:EOLhyphen"/>ving of a Kingdome in danger, are three.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Firſt, becauſe prayer deales with God and inclines him to fa<g ref="char:EOLhyphen"/>vour and pitie a people: now it is God that <hi>wounds and heales, ſpoyles and ſaves:</hi> he raiſeth the ſtorme, and calmes it againe:<note place="margin">Hoſ. 6. 1.</note> judgements like the <hi>Centurions</hi> ſervants, goe and come at his com<g ref="char:EOLhyphen"/>mand: and therefore if we be troubled and arreſted by judgements for the debt of our ſinnes, it is proper to make our peace with God, and agree with the Creditor, no matter for the Sergeant: if Dogges fly upon us, it is moſt proper to ſpeake to their Maſter to call them off, who firſt ſet them on.</p>
+            <p>And howſoever prayer cannot change, or cauſe God to alter his eternall unchangeable decree, yet it cauſeth him to recall his preſent ſentence, that is gone out againſt a people: <hi>mutat ſententi<g ref="char:EOLhyphen"/>am,</hi>
+               <note place="margin">Greg. mor. l. 2. c. 24.</note> 
+               <hi>non decretum,</hi> ſaith <hi>Greg.</hi>
+            </p>
+            <pb n="25" facs="tcp:124247:15"/>
+            <p>And indeed Gods eternall decree takes in the meanes as well as the end: ſo that according to Gods decree when his ſentence of ru<g ref="char:EOLhyphen"/>ine is gone out againſt a Nation, prayer and other meanes fall in, to hinder execution: and ſo his decree ſtands, the preſent ſentence onely fals, as we ſee in the caſe of <hi>Hezechiah,</hi> the <hi>Ninivites,</hi> and the <hi>Iſraelites</hi> here in my text.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, becauſe prayer workes on mens owne hearts, and makes them fit for, and capable of a mercy: and indeed for the Lord to beſtow a mercy on a people, before they are fit for it, were <hi>to put new wine into old bottles,</hi> the mercy is loſt, and the receiver<note place="margin">Matth. 9. 17.</note> hurt by it: therefore the Lord is ready to beſtow mercies, and <hi>waits</hi> untill wee are ready to receive them. God is as ready to give<note place="margin">Iſa. 30. 18.</note> mercies as a womans breaſts to give milke, he waits but for our drawing: Now prayer draws the hearts of men nearer to God, and ſo puts them into a poſture fitter for mercies: it drawes downe fitneſſe from God, it empties the heart of ſelfe, and takes in more of God, and when prayer brings a mercy from Heaven it fits a man in thankfulneſſe, by an holy uſe of it, to ſend it backe thither a<g ref="char:EOLhyphen"/>gaine: as <hi>Hanna,</hi> when by prayer ſhe had obtained a ſonne of the<note place="margin">1 Sam. 1. 28.</note> Lord, ſhe gave him to the Lord againe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, becauſe prayer carries God along with the meanes, and cauſeth him to cooperate: howſoever ſecondary cauſes have their cauſality and efficiencie put into them by God with their formes in their firſt creation, yet there muſt be a concurrence of the firſt cauſe to make them put forth their ſtrength, and actually to effect things: and therefore ſecond cauſes and means, as the King<note place="margin">2 King. 6. 26.</note> of <hi>Iſrael</hi> told the woman, <hi>cannot helpe, if the Lord doe not concurre.</hi> What can the pipe do if the ſpring deny it water? The Lord doth ſometime ſuſpend the power of meanes, ſometimes enlarge it above its naturall pitch, as it ſeemes good unto him: if the Lord co<g ref="char:EOLhyphen"/>operate with the meanes, how weake ſoever, they ſhall doe the<note place="margin">1 Sam. 14. 6. Rom. 8. 31. Jud. 7. 20.</note> worke: <hi>The ſword of Gedeon</hi> ſhall doe great things, <hi>if the ſword of the Lord goes with it.</hi>
+            </p>
+            <p>Now prayer carries God into the Army, and engageth him in a juſt warre to take his peoples part, and to fight with them and for them, as we ſhall ſhew anon. And therefore when the inha<g ref="char:EOLhyphen"/>bitants of <hi>Jeruſalem</hi> were making fortifications, and warlike pre<g ref="char:EOLhyphen"/>parations againſt their enemies, the Prophet blames them for not looking up to God in the meanes, and the Lord cals them to adde
+<pb n="26" facs="tcp:124247:16"/> faſting and other ſpirituall fortifications to their outward, to<note place="margin">Iſay 22. 11, 12.</note> make them effectuall.</p>
+            <p>Before I come to Application, I deſire to anſwer two queſtions.</p>
+            <p n="1">1. Whether the cries and prayers of wicked men can availe any thing, either for themſelves or others.</p>
+            <p n="2">2. How the prayers of ſome can be availeable for others, eſpe<g ref="char:EOLhyphen"/>cially being abſent.</p>
+            <p>To which queſtions that I may give the more ſatisfying anſwer, I deſire to premiſe certaine diſtinctions.</p>
+            <list>
+               <label>1. Crying is taken two wayes.</label>
+               <item>
+                  <list>
+                     <item>1. Properly, for the putting up of a peti<g ref="char:EOLhyphen"/>tion or prayer.</item>
+                     <item>2. Improperly, for the expreſſion of the<note place="margin">1. Diſtinct.</note> creatures miſery by the moane and cry that it makes.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Now indeed, the cry and moane of the creature often moves the Lord in mercy to ſuccour it: as the cry and moane of the babe, (though it makes no formall requeſt) maketh the mothers bow<g ref="char:EOLhyphen"/>els to yerne with compaſſion towards it, and to ſuccour it: ſo the Lords mercy being <hi>over all his workes</hi> 
+               <note n="a" place="margin">Pſal. 145. 9</note>, exceeding great, and extended to all his creatures, his mercy is drawne forth to ſuccour them at the ſight of their miſery: and thus he is ſaid to heare the cry of the Ravens <note n="b" place="margin">Pſal. 147. 9</note>, becauſe he is moved to relieve this poore creature in its miſery. So <hi>Pſal.</hi> 78. <note n="c" place="margin">Pſal. 78. 34 35, 36, 37, 38.</note> when the wicked were in <hi>diſtreſſe</hi> and earneſtly <hi>cryed to the Lord,</hi> though <hi>their heart was not upright with him, yet the Lord in mercy called backe his anger, and deſtroy<g ref="char:EOLhyphen"/>ed them not:</hi> Now the Lord did not this in anſwer to their prayers, but as an act of mercy at the ſight of their miſery, expreſſed by their cries.</p>
+            <p>The queſtion then is, touching wicked mens prayers and cryes properly taken. Concerning them take another diſtinction.</p>
+            <list>
+               <label>Prayer may bee taken,</label>
+               <item>
+                  <list>
+                     <item>1. Strictly, for the putting up of a formall re<g ref="char:EOLhyphen"/>queſt or petition to God.<note place="margin">2. Diſtinct.</note>
+                     </item>
+                     <item>2. Largely, for the exerciſe of prayer in its or<g ref="char:EOLhyphen"/>dinary uſe.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Now the exerciſe of prayer by reaſon of many divine truths in<g ref="char:EOLhyphen"/>ſerted in it, as confeſſions of ſinnes, declarations of Gods na<g ref="char:EOLhyphen"/>ture and promiſes, and preſſed as arguments, if not to move the Lord, yet to move our owne hearts, all which truths being reflected backe upon the ſoule, may poſſibly, through a concurrence of
+<pb n="27" facs="tcp:124247:16"/> Gods ſpirit, beget faith, bring the ſoule into frame, yea it may become unto the ſpeaker and hearers a converting ordinance, and ſo make a man capable of mercies, and thus the prayers even of wicked men may be availeable to the ſpeaker and hearer, whe<g ref="char:EOLhyphen"/>ther good or bad, by way of cauſation.</p>
+            <p>But ſecondly for prayer properly and ſtrictly taken for the put<g ref="char:EOLhyphen"/>ting up of deſires to God, by way of petition, a wicked man hath no promiſe to ground his hope of prevailing upon, as anon I ſhall more clearely ſhew. In the meane time conſider of another di<g ref="char:EOLhyphen"/>ſtinction, and it runs thus.</p>
+            <list>
+               <label>Prayer is to bee conſide<g ref="char:EOLhyphen"/>red, and is availeable 3. wayes.</label>
+               <item>
+                  <list>
+                     <item>1. As it is a <hi>Petition</hi> put up to God, and ſo it availes<note place="margin">3. Diſtinct.</note> 
+                        <hi>via impetrationis,</hi> by way of impetration.</item>
+                     <item>2. As it is an <hi>exerciſe</hi> of the ſoule, and of the graces in it, whether common or ſaving, and ſo it availes <hi>via cauſationis,</hi> by way of cauſation.</item>
+                     <item>3. As it is a <hi>commanded dutie,</hi> and a principall part of Gods ſervice, wherein wee give God the glory of his omniſcience, mercy, power and wiſedome; and ſo it availes <hi>via retributionis,</hi> by way of re<g ref="char:EOLhyphen"/>tribution.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Indeed the benefits which God beſtoweth upon men, in refe<g ref="char:EOLhyphen"/>rence to their workes, whether formally good, or materially one<g ref="char:EOLhyphen"/>ly, are properly called Gods gifts, as comming from him, by free donation, and are tearmed <hi>rewards</hi> not <hi>properly,</hi> but onely <hi>analo<g ref="char:EOLhyphen"/>gically,</hi> as being given <hi>ſecundum non propter opera,</hi> not <hi>for</hi> but one<g ref="char:EOLhyphen"/>ly <hi>according</hi> to our workes <note n="a" place="margin">Rom. 2. 5.</note>.</p>
+            <p>In the fourth place, Prayer being taken as a meanes of procu<g ref="char:EOLhyphen"/>ring ſpirituall and outward bleſſings,</p>
+            <list>
+               <label>Is to be conſidered two wayes.</label>
+               <item>
+                  <list>
+                     <item>Firſt, in the naturall uſe; and ſo it is a naturall<note place="margin">4. Diſtinct.</note> mans meanes.</item>
+                     <item>Secondly, in the ſpirituall uſe; and ſo it is a ſpirituall mans meanes.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>Media</hi> or meanes are ſo called becauſe in the midſt betweene <hi>can</hi> and <hi>can not,</hi> God hath appointed us in the uſe of ſuch meanes as we can, to ſeeke to him, for what we can not.</p>
+            <p>Now a ſpirituall mans meanes is praying in faith, in a ſpiritu<g ref="char:EOLhyphen"/>all manner, that is appointed him to uſe <hi>as meanes,</hi> for procurement of what he wants.</p>
+            <p>But a naturall mans meanes, appointed him, to uſe <hi>as meanes,</hi> is
+<pb n="28" facs="tcp:124247:17"/> not praying in faith in a ſpirituall manner (for that hee cannot doe) but the naturall worke of prayer onely, ſuch prayer as a naturall man can uſe.</p>
+            <p>Flying in the ayre is not a <hi>mans</hi> meanes of comming to a place, that is a <hi>Birds</hi> meanes, but going or riding is a mans meanes: ſpirituall prayer is a holy mans meanes, naturall praying is the meanes of a naturall man.</p>
+            <p>Indeed, the ſpirituall uſe of prayer is enjoyned as a dutie, which though he cannot performe, yet ought he to deſire and labour after; onely the naturall worke of prayer is required of him as a <hi>meanes</hi> of procurement of what he wants.</p>
+            <p>Now a naturall man, though he be not ſure to ſpeed, yet ought he to <hi>waite for God in the way of his judgements:</hi> 
+               <note n="a" place="margin">Iſay 26. 8.</note> his ordinances are his walke wherein often he is, and poſſibly may bee found: and therefore ſuch meanes are to be uſed even of naturall men: as we may ſee <hi>Ezek.</hi> 36. where the Lord having promiſed juſtification, ſanctification, and withall divers outward bleſſings, at laſt hee<note place="margin">Ezek. 36. 37.</note> addes, <hi>Verſ. 37. Yet I will be ſought unto that I may doe it unto them:</hi> and therefore <hi>Daniel</hi> 9. <note n="c" place="margin">Dan. 4. 13. Hoſ. 5. 4.</note> complaines, that they did not ſo much as <hi>pray that they might turne unto God.</hi> Indeed, ſpirituall prayer is <hi>conditio ſubſequen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and followes our converſion, but the naturall worke of prayer is <hi>conditio antecedens,</hi> and may and ought to goe before it: And for the efficacie of a naturall mans prayer, I ſhall en<g ref="char:EOLhyphen"/>deavour preſently to ſhew it in my anſwer to the firſt queſtion propounded concerning the efficacie of the prayers of wicked men.</p>
+            <p>My anſwer to that firſt queſtion I preſent unto you thus.<note place="margin">1. Queſt.</note>
+            </p>
+            <p>Firſt, Prayer conſidered as a dutie, muſt be performed even of wicked men, as being good in it ſelfe, though by accident <hi>turned into ſinne</hi> 
+               <note n="d" place="margin">Pſal. 107. 7</note>, and howſoever not being made in faith, <hi>it cannot pleaſe God,</hi> 
+               <note n="e" place="margin">Heb. 11. 6.</note> in ſuch ſort as holy mens doe, yet being good for the ſubſtance of the dutie, giving God the glory of ſundry of his attributes, it may perhaps availe for procurement of a temporall bleſſing by way of <hi>retribution:</hi> as the Phariſees prayers had there<g ref="char:EOLhyphen"/>ward of mens praiſes <note n="a" place="margin">Matth 6. 5.</note>: And ſo <hi>Ahabs</hi> humiliation, and the <hi>Ninivites</hi> repentance procured a delay of temporall judgements.</p>
+            <p>Secondly, a wicked mans prayer conſidered as an exerciſe of the ſoule, and of ſome common graces that are in it, and eſpe<g ref="char:EOLhyphen"/>cially argumentative prayer may perhaps availe, through the
+<pb n="29" facs="tcp:124247:17"/> helpe of Gods ſpirit by way of <hi>cauſation,</hi> bringing his ſoule into a better frame, and ſo making it capable of ſpirituall and out<g ref="char:EOLhyphen"/>ward bleſſings.</p>
+            <p>But thirdly, a wicked mans prayer conſidered as a petition put up to God, we cannot ſay it will availe by way of impetration.<note place="margin">1. Sort.</note>
+            </p>
+            <p>Indeed, there are two ſorts of wicked men. Firſt, ſuch as do what they can in breaking off the outward practiſe of ſinne, and doe carefully performe the naturall worke of prayer, and doe what a naturall man can, in the uſe of meanes, howſoever they cannot ground their hopes of prevailing upon any promiſe, and ſo upon Gods faithfulneſſe, as being out of Chriſt, and therefore can<g ref="char:EOLhyphen"/>not pray with aſſurance of prevailing: yet they may ground their hope of prevailing upon the mercy of a gracious God, wayting on God in the way of his ordinances, in hope that God in mercy will doe ſomething for poore creatures; Who knoweth what God may doe? The <hi>Ninivites</hi> went upon this ground, and it fell out happily, the Citie was ſpared.</p>
+            <p>There is a ſecond ſort of wicked men that ſecurely live in their<note place="margin">2. Sort.</note> ſinnes, following the ſway of their luſts, and continuing in actuall rebellion againſt him, &amp; yet in their extremitie doe <hi>cry unto the Lord</hi> for ſuccour: as for theſe, the Lord threatens, that though they cryed earneſtly to God <note n="b" place="margin">Mic. 3. 4.</note>, and were frequent in the uſe of prayer, <hi>making many prayers</hi> 
+               <note n="c" place="margin">Iſay 1. 15, 16.</note>, yet the Lord will not heare them, he will throw away their petitions, as being an abomination unto him <note n="d" place="margin">Prov. 28 9</note>.</p>
+            <p>For anſwer to the ſecond queſtion, how farre forth the prayer<note place="margin">2. Queſt.</note> of ſome may bee availeable for others, eſpecially being abſent; I ſay;</p>
+            <p n="1">1. Sometimes the thing prayed for, is not meerely anothers,<note place="margin">1. Caſe.</note> and that in two caſes.</p>
+            <p>Firſt, love may ſo unite the heart of one to the other, that like <hi>Hippocrates</hi> Twins they laugh and weepe together, and ſympa<g ref="char:EOLhyphen"/>thize each in others condition, that in ſuccouring the one, mer<g ref="char:EOLhyphen"/>cy is ſhewed to both.</p>
+            <p>Secondly, they may bee ſharers in the ſame ſhip, as <hi>Jonah</hi> and the paſſengers with him: or as members of the ſame Commonwealth, in a common danger; all in the ſame con<g ref="char:EOLhyphen"/>dition, ſtand or fall togther; in this caſe alſo hee that prayes againſt a publique calamitie, or for a publique benefit,
+<pb n="30" facs="tcp:124247:18"/> prayes for himſelfe as well as for others: and ſo neceſſarily many <hi>reape the fruit of the prayers of ſome.</hi>
+            </p>
+            <p n="2">2. In caſe the prayer be meerely for others, then, firſt, by way<note place="margin">2. Caſe.</note> of <hi>cauſation</hi> the prayer of ſome cannot profit others that are ab<g ref="char:EOLhyphen"/>ſent: for in the production of effects, there muſt be betweene the<note place="margin">Contactus realis vel virtualis.</note> agent and the object, a reall, or at leaſt a virtuall cloſing.</p>
+            <p>Nor ſecondly, the prayer of ſome cannot profit others by way of <hi>retribution,</hi> whether abſent or preſent, for every one ſhall reape the fruite of his owne worke.</p>
+            <p>But thirdly, the prayer of ſome may prevaile for others, though abſent, by way of <hi>impetration:</hi> Either firſt in reſpect of the preva<g ref="char:EOLhyphen"/>lency of importunity ſet forth in that parable of the <hi>Widowes</hi>
+               <note place="margin">(<hi>a</hi>) Luke 18. 5. 7.</note> overcomming the <hi>unjuſt judge, Luke</hi> 18. 5. 7. or elſe ſecondly upon Gods purpoſe and promiſe of good unto others, upon condition of his ſervants prayers; it being the Lords will that the prayers of his ſervants ſhould give vent to his mercies, that they may flow from God, as water from a full ſpring upon the thirſty ground: as alſo it being the Lords purpoſe to grace his ſervants, in grati<g ref="char:EOLhyphen"/>fying great Kings and Kingdomes upon their prayers, as hee did <hi>Abimelecb</hi> upon the prayer of <hi>Abraham</hi> 
+               <note n="b" place="margin">Gen. 20. 7. 17.</note>, and <hi>Pharaoh</hi> and his kingdome upon the prayer of <hi>Moſes</hi> 
+               <note n="c" place="margin">Exod. 8. 28. 29.</note>.</p>
+            <p>Now the prayers that are uſefull for the ſaving of a Nation from ruine are of two ſorts; Firſt, the prayers of the Nation it ſelfe; Secondly, of Gods owne people for the nation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the prayers of the <hi>nation it ſelfe,</hi> which alſo are two-fold; firſt of the repreſentative body of a nation: for as the proper acts of thoſe organs, which by natures deputation, are appointed for performance of thoſe Acts, for the good of the whole body, as namely of the eye in ſeeing, the tongue in ſpeaking, the eare in hearing, &amp;c. the acts I ſay of thoſe parts are the Acts of the whole man <note n="a" place="margin">Totus homo videt &amp;c. non totum hominis.</note>; ſo the acts of the repreſentative body of a nation, not onely acts civill, but ſacred, even their heart breaking and repen<g ref="char:EOLhyphen"/>ting prayers offered up for a nation in the name of the whole, and that with their if not actuall, yet virtuall conſent; ſurely theſe acts interpretatively are the acts of the nation, and there<g ref="char:EOLhyphen"/>fore in and by them, the nation prayeth. Secondly, the prayers of the eſſentiall body of a nation: when a kingdome in all its parts, if not all or the moſt men in it <hi>
+                  <g ref="char:V">Ʋ</g>niverſally,</hi> yet <hi>generally,</hi> all ſorts, of all degrees, in all places, like the Kingdome of <hi>Nineveh</hi> upon the
+<pb n="31" facs="tcp:124247:18"/> preaching of <hi>Jonah,</hi> and command of authoritie <note n="b" place="margin">John 3. 5. 6, 7. 10.</note>, ſhall be up in prayer, faſting, weeping, reforming, and crying unto the Lord, there were then great hope of an happy iſſue, becauſe the nation prayeth.</p>
+            <p>Now theſe nationall humiliations and prayers, as the Lord preſcribes them as meanes to ſave a nation, <hi>Iſa.</hi> 22. 12. So have they<note place="margin">Iſay 22. 12. 2 Chro. 20. Jonah 3.</note> beene alwayes, performed with great ſucceſſe, as wee ſee in the <hi>Ninivites, Jehoſhaphat</hi> and others.</p>
+            <p>The ſecond ſort of prayers availeable for the procurement of a nations ſafetie, are the prayers of <hi>Gods own faithfull people for the na<g ref="char:EOLhyphen"/>tion:</hi> for though they are very few, yet their prayers are exceeding prevalent for that purpoſe (as hath beene ſhewed) in ſo much that it is noted as a wonder, that ſeldome happens, that the prayers of <hi>Daniel, Noah</hi> and <hi>Job,</hi> ſuch holy men, ſhould availe but for the ſafetie of their owne lives <note n="d" place="margin">Ezek. 14. 20.</note>.</p>
+            <list>
+               <label>Now their prayers are two wayes conſiderable, either as the petitioners are,</label>
+               <item>
+                  <list>
+                     <item>Firſt, diſperſed in ſundry places.</item>
+                     <item>Secondly, congregated in aſſemblies.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Firſt, as they are ſcattered here and there throughout the king<g ref="char:EOLhyphen"/>dome, and ſo though divided in place, yet as lines from every part of the circumference round about, doe all meet in the center, and as Starres every where round in the heavens doe meet in their influences, and worke ſtrongly on the earth, ſo the heartie prayers of Gods people from all parts of the Kingdome agreeing in the ſame requeſt, with one heart doe all meete at the <hi>throne of grace,</hi> and worke ſtrongly there.</p>
+            <p>Secondly, the prayers of holy men are conſiderable, as they are conjoyned in congregations, with one heart and mouth to ſeeke the Lord for a nation: for, as a bundle of ſtickes being caſt on the fire, one ſticke ſets another a burning untill all's on a flame, and as <hi>Saul</hi> among the prophets propheſied alſo <note n="a" place="margin">1 Sam. 19. 23.</note>; ſo in a congre<g ref="char:EOLhyphen"/>gation, <hi>the zeale of ſome provokes many,</hi> and ſets their hearts a bur<g ref="char:EOLhyphen"/>ning: &amp; ſurely the prayers of a Congregation are moſt prevalent; for if the prayer of one <hi>righteous man availes much</hi> 
+               <note n="b" place="margin">Jam. 5. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, <hi>and a three-fold cord not eaſily broken,</hi> united ſtrength, the joynt prayers of ma<g ref="char:EOLhyphen"/>ny muſt needs be much more effectuall; if <hi>when two or three godly men ſhall agree upon a requeſt and ſend up their joynt petition to heaven, it ſhall be granted,</hi> as our Saviour hath promiſed <note n="c" place="margin">Matth. 18. 19.</note>, how much more ſhall the joynt petition of hundreds of holy men in a Congrega<g ref="char:EOLhyphen"/>tion?</p>
+            <pb n="32" facs="tcp:124247:19"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But you will object, indeed If our Congregations did conſiſt onely of Saints, their prayers would be very prevalent, but alas it is otherwiſe with us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, that it is true, that the prayers of ſuch a Congrega<g ref="char:EOLhyphen"/>tion is exceeding prevalent: And yet we finde <hi>Joel</hi> 2. and <hi>Jona.</hi> 3. that in a time of publike danger, they ſhould <hi>gather a Congregation</hi>
+               <note place="margin">Joel. 2. 15, 16.</note> 
+               <hi>and call an Aſſembly</hi> of all ſorts and ages, yea <hi>ſucking children</hi> not<note place="margin">Jon. 3. 5. 7.</note> excluded to ſeeke the Lord: and at<g ref="char:punc">▪</g> 
+               <hi>Ninive</hi> we finde that even the brute creatures did beare a part in the Faſt. For howſoever, (as hath beene ſhewed) onely Gods ſervants can ground their hopes upon a promiſe: yet all that ſtand not in open rebellion againſt God, can ground their hopes upon the mercie of a gracious God as the <hi>Ninivites</hi> did.</p>
+            <p>Yea, brute creatures, and poore babes, that cannot put up a for<g ref="char:EOLhyphen"/>mall prayer, yet their moane and cry, as being all loſt in the com<g ref="char:EOLhyphen"/>mon calamity, may move the Lord to mercy, (as we have ſhewed) and we accordingly finde that the moane of the <hi>one hundred and</hi>
+               <note place="margin">Jon. 4. 11.</note> 
+               <hi>twenty thouſand infants of Ninive; yea, of the cattle,</hi> did much move the Lord to pitie.</p>
+            <p>From this Doctrine we may inferre two corollaries.</p>
+            <p>Firſt, when the Lord intends to <hi>ſave</hi> a Nation, he drawes up<note place="margin">Corol. 1.</note> the hearts, at leaſt of his owne people, to ſeeke it: as when he in<g ref="char:EOLhyphen"/>tends a ſhower to the earth, he drawes up the vapours, and fils his bottles, ſo when he intends to refreſh a people with a ſhower of mercies, he not onely gives to a competent number the ſpirit of prayer, but draweth out their hearts in the actuall performance of<note place="margin">Ier. 29. 10. 12, 13, 14.</note> the duty. As we may ſee, <hi>Jer.</hi> 29. by comparing the 10. 12, 13, 14. <hi>verſes</hi> together, that when the time approached which the Lord intended for the deliverance of his Church out of captivity, then he cauſed the earneſt prayers of his people to fall in, as the meanes to effect it: <hi>then</hi> (ſaith the text) <hi>ſhall they pray and cry to the Lord with all their hearts;</hi> and thereupon the Lord was found of them, and turned away their captivity.</p>
+            <p>Secondly, when the Lord intends to <hi>deſtroy</hi> a people, he ſo car<g ref="char:EOLhyphen"/>rieth<note place="margin">Corol. 2.</note> things about in his providence, that his peoples prayers ſhall be wanting. We finde <hi>Jer.</hi> 7. that when the Lord by an irre<g ref="char:EOLhyphen"/>vocable<note place="margin">Ier. 7. 14, 15, 16.</note> decree had determined the deſtruction of the <hi>Jewiſh</hi> State, he prohibits his Prophets praying for them. Where there is up<g ref="char:EOLhyphen"/>on good ground a totall deſpaire of a thing, there will, yea and
+<pb n="33" facs="tcp:124247:19"/> ought to be a totall receſſe, and falling off from uſe of meanes to effect a thing in it ſelfe, and in our apprehenſion, not feceable. And therefore the Creators decree, being either by the event, or by his revelation, made certainly knowne, the creature muſt ſub<g ref="char:EOLhyphen"/>mit: the Prophet, though his heart was much ſet upon that State,<note place="margin">Ier. 13. 17.</note> yet muſt not ſtruggle againſt the knowne will of God. Now howſoever we have no ſuch prohibition; the Lords decree being hidden from us, ſo long as a Nation hath being, we ought not to ceaſe praying: yet when the Lord intendeth the ruine of a Nati<g ref="char:EOLhyphen"/>on, either the Lord takes away his <hi>Lots</hi> into his mountaine, and leaves not any conſiderable number of holy men, morally none, <hi>not a man to ſtand in the gap:</hi> or he takes off the hearts of his peo<g ref="char:EOLhyphen"/>ple,<note place="margin">Ezek. 22. 30. Ion. 1. 6. Luke 18. 1.</note> and ſuffers them, as he did <hi>Jonah,</hi> to be aſleepe when the Ship is in greateſt danger: or he lets the ſpirits of his people fall, as being diſcouraged, or weary, or withdrawes the breathings of his Spirit in their hearts: and ſo prayer being gone, the gap is o<g ref="char:EOLhyphen"/>pen, the judgement breakes in upon a Nation.</p>
+            <p>And now for Uſe and Application.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> 1. This Doctrine teacheth us, that in a warre, that ſide which hath the prayers of Gods people, hath a great advantage, their prayers ſet up or pull downe a ſide: it is not the falling in of the great multitude with ſwords and ſpeares, (though yet this God uſeth as a meanes) but the unfained falling in of Gods people with their prayers, and teares, that turnes the ſcale: a few <hi>Jacobs</hi> wraſtling with God, can doe more then a thouſand of others: and ſpirituall weapons can doe more then naturall.</p>
+            <p>
+               <hi>Luther</hi> was wont to call the prayers of Gods people, his <hi>great Ordnance;</hi> and a praying people are the horſemen, and the Chariots of <hi>Iſrael.</hi> In that famous battell againſt the <hi>Amalekites, the prayers</hi>
+               <note place="margin">Exod. 17. 11.</note> 
+               <hi>of Moſes</hi> gave a ſenſible advantage to <hi>Iſraels</hi> ſide, and indeed the vi<g ref="char:EOLhyphen"/>ctory. The bringing of the Arke into the hoſt, put courage in<g ref="char:EOLhyphen"/>to<note place="margin">1 Sam. 4. 5. 7, 8</note> the <hi>Iſraelites,</hi> in ſo much that they ſhouted for joy, but it ſtruck a terrour into the <hi>Philiſtims,</hi> they cryed, <hi>O woe unto us! God is come into the hoſt:</hi> effectuall prayers bring God into an army, and carries him along with them, fighting <hi>for them againſt their enemies.</hi>
+            </p>
+            <p>When <hi>Jonathan</hi> and his Armor-bearer were to ſet upon the <hi>Gar<g ref="char:EOLhyphen"/>riſon</hi>
+               <note place="margin">1 Sam. 14. 6.</note> of the Philiſtims, <hi>Jonathan</hi> went upon this ground, that the ſucceſſe of a warre or a battell depended not principally upon multitude of men, but upon Gods cooperating with them: we
+<pb n="34" facs="tcp:124247:20"/> are indeed the weaker ſide (ſaith he) but it is no matter for that, if God worketh with us: now we finde <hi>verſ.</hi> 45. he wrought with<note place="margin">Verſe 45.</note> God, doing his worke, in a dependance upon him, and you ſee<note place="margin">Verſ. 14, 15, 16</note> what a great victory the Lord gave him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> Secondly, this Doctrine diſcovers unto us, that ſuch as doe op<g ref="char:EOLhyphen"/>poſe and ſeeke to hinder the prayers of Gods people for a Nation, are enemies unto it: for though perhaps <hi>ex intentione agentis,</hi> they ſeeke not intentionally therein the Kingdomes ruine, yet <hi>exnatura rei,</hi> they doe that which in its nature tends that way, they do with <hi>Sampſon,</hi> endeavour to pull away the Pillars that doe uphold the State: they open the breaches, and ſeeke the removall of <hi>them that ſtand in the gap,</hi> and ſo let in the wrath of God into our Land.<note place="margin">Pſal. 106. 23. Ezek. 22. 30.</note>
+            </p>
+            <p>As the Pelican in ſeeking to blow out the fire, kindled about her young ones, with her wings, the flame thereby was in<g ref="char:EOLhyphen"/>creaſed, her wings burnt, and ſo became a prey: ſo theſe that by their perſecution of Gods people, and by their evill ſpeeches, doe ſeeke to blow out this flame of zealous prayer in the Land, by their oppoſition, that fire will increaſe, and they procure their owne ruine. <hi>For fire ſhall goe out of the witneſſes mouths, and con<g ref="char:EOLhyphen"/>ſume</hi>
+               <note place="margin">Revel. 11. 5.</note> 
+               <hi>their adverſaries.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> In the third place it affords us a caveat, to beware that we doe not marre this engine in the uſing: Prayer is indeed of great uſe, and of ſingular efficacie, to ſave a Nation in a time of danger: provided we uſe it not amiſſe, as Saint <hi>James</hi> ſpeaketh. When<note place="margin">Iam. 4. 3.</note> men make <hi>many prayers, and yet their hands full of bloud,</hi> when <hi>they</hi>
+               <note place="margin">Iſa. 1. 15. Hoſ. 7. 14. Ier. 3, 4, 5.</note> 
+               <hi>houle and cry, and yet rebell againſt God: they pray and yet grow worſe and worſe:</hi> thus an effectuall meanes of ſaving a Nation, is marred in the uſing: and prayer to ſuch a people, like the Arke among the <hi>Philiſtims,</hi> provokes the Lords anger, and doth a people more<note place="margin">1 Sam. 6.</note> hurt then good. We finde in <hi>Iſa.</hi> 58. that the people ſought the Lord by a daily uſe of his ordinances, they drew neare to God by<note place="margin">Iſa. 58.</note> an outward performance of them, in hearing, in faſting, and pray<g ref="char:EOLhyphen"/>ing, as if they had beene the <hi>moſt righteous Nation</hi> in the world, <hi>verſ.</hi> 2. And they complaine and expoſtulate with God, as if he<note place="margin">Verſ. 2.</note> had not dealt well with them in <hi>not regarding their Faſts, verſ.</hi> 3.<note place="margin">Verſ. 3.</note>
+            </p>
+            <p>Now therefore the Lord anſwers, it's true, faſting is a ſervice that I require, as a moſt effectuall meanes of ſafety in a time of danger. But (ſaith he) <hi>Is this the Faſt that I have choſen?</hi> to hang<note place="margin">Verſ. 4. 5.</note> the head <hi>like a bulruſh,</hi> with an outward ſhew of humiliation,
+<pb n="35" facs="tcp:124247:20"/> whiles the guſte of Gods wrath is over? to hang the head, and the heart not dejected? to pinch your bodies, and feede your luſts? <hi>to faſt to ſtrife and debate, and ſmite with the fiſt of wickedneſſe?</hi> to faſt and pray, and yet live in ſtrife and oppreſſion? ſurely ſuch<note place="margin">Verſ. 4. Verſ. 6. 7.</note> prayers <hi>will never be heard above.</hi> But ſaith the Lord, <hi>verſe</hi> 6, 7. Faſt and pray as yee ought to doe, as the Lord hath preſcribed; not ſo much <hi>with rent garments,</hi> with outward ſhewes, (though even<note place="margin">Jo. 2. 13:</note> this ought to be likewiſe) but come before the Lord with <hi>rent</hi> and wounded hearts, and broken bleeding <hi>ſpirits,</hi> for your owne ſinnes, and the ſinnes of the Land: and with an unfained purpoſe of breaking off, of your owne and others ſinnes, by a through refor<g ref="char:EOLhyphen"/>mation, both perſonall and nationall. And then <hi>verſ.</hi> 8, 9, 10,<note place="margin">Verſ. 8, 9, 10</note> yee ſhall ſoone have a gracious anſwer to your prayers from the Lord, and proſperity ſhall come like light after darkneſſe, as the morning after a ſad darke night of adverſity: yea the <hi>Almighty</hi>
+               <note place="margin">Job 29. 4.</note> 
+               <hi>ſhall ſhine upon your Tabernacles,</hi> as in former times. Now there<g ref="char:EOLhyphen"/>fore the ſame caveat which our Saviour gives for hearing, let me<note place="margin">Luke 8. 18.</note> givee for praying, Take heed how yee pray.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> In the fourth place, the conſideration of the premiſſes may ſhew us what to thinke of the preſent condition of our Kingdome, and how the Lord intends to deale with us.</p>
+            <p>If we looke upon the face of the Kingdome, we cannot deny but the wickedneſſe of the Land is very great, the ſinnes great in themſelves, univerſally ſpread, many wayes aggravated, and peo<g ref="char:EOLhyphen"/>ple hardened by the refuſall of grace offered in the meanes, and ſo like the <hi>Iſraelites</hi> a ſtiffenecked people, which is ground of feare.</p>
+            <p>But then withall it cannot be denied, but that ſtill we are the <hi>Lords flocke,</hi> a true viſible Church, having the true Religion profeſ<g ref="char:EOLhyphen"/>ſed among us, and that we have many of the true ſervants of God among us, for whoſe ſake we have cauſe to hope that the Lord will ſpare the Nation.</p>
+            <p>Againe, we have indeed the forme of godlineſſe among us, and doe draw neare to God in praying, hearing, faſting, and in the uſe of all the ordinances, as if we were a moſt righteous Nation, which is matter of <hi>comfort.</hi>
+            </p>
+            <p>But withall there is a generall want of the power, the ſoule, and the life of godlineſſe, they pray and faſt, and yet their hands full of bloud, they pray, and yet grow worſe and worſe, this is matter of feare.</p>
+            <pb n="36" facs="tcp:124247:21"/>
+            <p>Indeed our Ship is in jeopardy, the winds and waves very ſtrong upon it: and ſome holy men (though I hope not many) not affected with it, no more then <hi>Jonah</hi> in the ſtorme: the <hi>Ama<g ref="char:EOLhyphen"/>lekites</hi> are many and ſtrong, our enemies that are riſen up a<g ref="char:EOLhyphen"/>gainſt us, are many and extreamly enraged, which is matter of <hi>feare.</hi>
+            </p>
+            <p>But then we know they are Gods enemies as well as ours, and we have many holy men every where like <hi>Moſes,</hi> media<g ref="char:EOLhyphen"/>ting and interceding for us as <hi>Moſes</hi> for <hi>Iſrael:</hi> like <hi>Abraham</hi> put<g ref="char:EOLhyphen"/>ting up prayer after prayer, as he for ſinfull <hi>Sodome:</hi> and with <hi>Jacob</hi> wraſtling day and night with the Lord for us, which is ground of <hi>comfort.</hi>
+            </p>
+            <p>So that like <hi>Nabuchadnezzars</hi> image, we ſtand upon feete part of iron, and part of clay; ſtaggering betweene hope and feare: we doe not certainly know what the Lord will doe. But for our comfort we finde that the prayers of <hi>Moſes</hi> reverſed the Lords ſentence gone out then againſt ſtiffenecked <hi>Iſrael,</hi> and we hope the like prayers may prevaile for ſinfull <hi>England.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> The fifth and laſt is a Uſe of exhortation, which is three-fold.<note place="margin">1. Part.</note>
+            </p>
+            <p>1. To all men whatſoever, to ſtirre them up to a twofold duty.</p>
+            <p>Firſt, that by true repentance they would <hi>gather themſelves to ſeeke the Lord:</hi> that they would labour to get into ſuch a condition, that they might be able to doe ſome good to themſelves and o<g ref="char:EOLhyphen"/>thers by their prayers. Firſt, the Kingdome is in danger, and hath need of good mens prayers, perhaps there may want five<note place="margin">Gen. 18. Ezek. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 30.</note> of the Lords number, perhaps there may want but a man to ſtand in the gap, a few may turne the ſcale: If not, yet, ſecondly, thou ſhalt ſave thine owne ſoule: at leaſt thy prayer ſhall be with much comfort <hi>returned into thine owne boſome:</hi> whereas if we doe not get into a praying condition, <hi>What will yee doe in the day of deſtruction,</hi>
+               <note place="margin">Pſal. 35. 13.</note> 
+               <hi>whither will yee flie, and with whom will yee leave your glory?</hi> there<note place="margin">Iſa. 10. 3.</note> is no creature on earth to fly unto, or in whoſe hands we can ſafe<g ref="char:EOLhyphen"/>ly depoſite any thing that is deare unto us: now when we have no friends on earth, to have God an enemy too; to have our hearts ſhut up that we cannot pray, and heaven alſo that we cannot prevaile, ſurely this condition is wofull. Now therefore we ſhould labour for the Kingdomes ſake, and our owne, to get into a praying condition.</p>
+            <p>But if you will not be perſwaded to this, yet ſecondly bee in<g ref="char:EOLhyphen"/>treated
+<pb n="37" facs="tcp:124247:21"/> at leaſt thus farre; by all loving and reſpectfull uſage to give encouragement to holy men, to be much in prayer for the Land: the <hi>Perſians</hi> were wont to give divine honour to the Sunne, not ſo much becauſe it was ſo glorious a creature, but becauſe an in<g ref="char:EOLhyphen"/>ſtrument of ſo much good to the world, all creatures by its light &amp; influence being preſerved and refreſhed: though we doe not deifie the publike inſtruments of good to Church or State, yet good reaſon we ſhould love and honour them, and eſpecially thoſe that are <hi>the ſervants of the moſt high God,</hi> who are <hi>a bleſſing in the middeſt of the earth:</hi> they have power to doe great things, as <hi>being the friends</hi>
+               <note place="margin">Act. 16. 2. Iſa. 19. 29 Iſa. 41. 8. Hoſ. 12. 3.</note> 
+               <hi>of God,</hi> and having <hi>a prevailing power with God.</hi> And therefore ſee<g ref="char:EOLhyphen"/>ing their prayers like the prayers of <hi>Moſes</hi> are ſo uſefull to the Church of God, good reaſon all ſhould endeavour with <hi>Aaron</hi> and <hi>Hurr</hi> to keepe up their hearts and hands in prayer.</p>
+            <p>The ſecond part of the exhortation is unto Gods owne ſer<g ref="char:EOLhyphen"/>vants: earneſtly to exhort them, as <hi>Mordecai</hi> did <hi>Eſther</hi> 
+               <note n="a" place="margin">Eſth. 4. 8.</note>, to<note place="margin">2. Part.</note> goe to the King of heaven, as hee to King <hi>Ahaſhueroſh,</hi> and make petition and ſupplication before him for themſelves and the kingdome: So the Prophet <hi>Zephaniah</hi> 
+               <note n="b" place="margin">Zeph. 2. 3.</note> finding little hope of prevailing in his exhortation to repentance, in the two firſt Verſes, at the third Verſe he addreſſeth himſelfe to Gods owne people, and exhorteth them <hi>to ſeeke the Lord,</hi> that if they could not prevaile for the land, that yet themſelvs might be <hi>hid in the day of the Lords wrath:</hi> as you can ſee further into the kingdomes danger then others, by<note place="margin">Prov. 22. 3. 2 Sam. 24. 16.</note> an eye of faith, ſeeing the ſword ſtretched out over our <hi>Jeruſalem</hi> ready to deſtroy it: ſo alſo you are neere to the Lord, and have more intereſt in him, than <hi>Eſther</hi> had with that <hi>Perſian</hi> King; you have the gift of prayer, you have this powerfull engine to effect great things: and <hi>ſhall there be a price in your hands, and not an heart to</hi>
+               <note place="margin">Prov. 17. 16. Iſa. 62. 6, 7.</note> 
+               <hi>uſe it?</hi> God forbid. Therefore give mee leave to extend the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſays</hi> exhortation, <hi>Iſay</hi> 62. 6. 7. principally intended to the Lords watchmen, unto all Gods people, all yee that are mindfull of the Lord, whether watchmen or people, keepe not ſilence, give the Lord no reſt, bee inſtant with him day and night for<note place="margin">Ion. 1. 6.</note> our <hi>Jeruſalem:</hi> and as the Shipmaſter awakened <hi>Jonah,</hi> checked him for his ſecuritie when the ſhip was in danger, and preſt him to call upon the Lord for the common ſafetie: ſo our ſhip being in the like danger, let me exhort you to the ſame dutie, and preſſe my exhortation with the ſame argument, even earneſtly to call
+<pb n="38" facs="tcp:124247:22"/> upon God, if ſo be that the Lord will thinke upon us, that wee periſh not; and that you would entreat and plead with God for England as <hi>Moſes</hi> here did for <hi>Iſrael.</hi>
+            </p>
+            <p>The third part is to you my Lords and Gentlemen of the Par<g ref="char:EOLhyphen"/>liament:<note place="margin">3. Part.</note> As the Lord hath raiſed you up above your brethren, and as it were with <hi>Moſes</hi> ſet you with him upon the Mount, ſo my humble requeſt unto you is, that you will labour to bee holy as <hi>Moſes</hi> was, fit to come neare the Lord, and to ſpeake unto him: And then like <hi>Moſes</hi> to be deepely affected with your owne and <hi>Iſraels</hi> ſinnes, and earneſtly to entreate and pleade with God for that people whom you repreſent. As the Lord hath made you glorious creatures, like Starres ſhining in your Orbes, ſo withall he hath appointed that by your prayers and endeavours, you ſhould be in continuall motion night and day to communicate light and influence to the lower world: The Lord hath raiſed you up above us, as the Sunne the Clouds, not to roule over our heads, by Lordly preheminence, but to refreſh the dry earth be<g ref="char:EOLhyphen"/>low, with fruitfull ſhowers: you have your <hi>praeeſſe, propter prodeſſe,</hi> as the Schoolemen ſpeake.</p>
+            <p>God hath furniſhed you with abundance of <hi>this worlds goods,</hi> as he hath filled the mothers breaſts with milke, not for her owne ſake, (if ſhee keepes it up, it is her owne hurt) but to impart it to hungry babes that need it.</p>
+            <p>Unworthy great ones are like meteors, when they are raiſed up, though they carry a great luſter, yet are they ominous diſmall ſignes of approaching evills, they ſhine a while, and vaniſh in a ſtinke of ignominie. But great men ſhould bee like the higher ſpheares; as they guide the lower, and ſway them in their moti<g ref="char:EOLhyphen"/>ons, ſo ſhould they imbrace and carry them in their boſomes: and by their prayers and beſt endeavours, ſeeke to procure the peo<g ref="char:EOLhyphen"/>ples good: that they may worthily carry the name of <hi>patres pa<g ref="char:EOLhyphen"/>triae,</hi> the fathers, lovers, and protectors of their country: And ſo like <hi>Deborah,</hi> the hearts of the people <hi>ſhall be towards the governours of Iſrael</hi> 
+               <note n="a" place="margin">Jud. 5. 9.</note>; they will love, ſerve and honour you whiles you live: and after death, as your ſoules ſhall live in heaven, ſo your names on earth, and be <hi>had in everlaſting remembrance.</hi>
+               <note place="margin">(<hi>b</hi>) Pſal. 112. 6</note>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124247:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
